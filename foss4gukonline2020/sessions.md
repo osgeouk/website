@@ -152,7 +152,7 @@ Feeling overwhelmed by the thought of creating and maintaining metadata on your 
 
 # Processing Large Geospatial Datasets on the Cloud, using FOSS (presentation)
 
-Joana Simoes,	EarthPulse: ⛵ 11:30
+JJoana Simoes, EarthPulse and Christian Rouffaert, Teragence: ⛵ 11:30
 
 _Learn how we tackled the tech challenges involved in processing a large volume of noisy, geospatial data, using FOSS and cloud computing._
 
