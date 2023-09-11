@@ -39,17 +39,17 @@ Time | Speaker| Title|
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-10:15 - 10:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
-10:30 - 10:45|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
+10:15 - 10:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond [PDF slides](presentations/Keyworth_AndresPayoSlides.pdf)
+10:30 - 10:45|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool [PDF slides](presentations/Keyworth_JinIgarashiSlides.pdf)
 10:45 - 11:15|-|Coffee break
-11:15 - 11:30|Chris Jackson|Generating and sharing a two-metre resolution land cover map of London
+11:15 - 11:30|Chris Jackson|Generating and sharing a two-metre resolution land cover map of London [PDF slides](presentations/Keyworth_ChrisJacksonSlides.pdf)
 11:30 - 11:45|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
 11:45 - 12:00|-|Break
 12:00 - 12:15|T.B.C.|
-12:15 - 12:30|Tony Brookes|Using QGIS to organise 500,000 years of history
+12:15 - 12:30|Tony Brookes|Using QGIS to organise 500,000 years of history [PDF slides](presentations/Keyworth_TonyBrookesSlides.pdf)
 12:30 - 13:00|-|Lunch
-13:00 - 13:15|Matt Arran|Open-source large-dataset geostatistics
-13:15 - 13:30|Matthew Paice|Updating the SDTM - challenges and the future
+13:00 - 13:15|Matt Arran|Open-source large-dataset geostatistics [PDF slides](presentations/Keyworth_MattArranSlides.pdf)
+13:15 - 13:30|Matthew Paice|Updating the SDTM - challenges and the future [PDF slides](presentations/Keyworth_MatthewPaiceSlides.pdf)
 13:30 - 14:00|All|Field data capture discussion / Unconference
 14:00 - 14:30|All|Unconference / Unconference
 14:30 - 14:45|-|Break
