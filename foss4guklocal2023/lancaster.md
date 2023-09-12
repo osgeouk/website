@@ -9,8 +9,18 @@ Local Venue Chairs: [Barry Rowlingson](https://barry.rowlingson.com/contact.html
 
 ### Programme
 
-The [Lancaster Programme](lancaster-programme.html) is now online. If you are presenting and 
-the time is awkward for you for any reason, let Barry or Jonny know and we'll try and make adjustments.
+The [Lancaster Programme](lancaster-programme.html) is online.
+
+### Slides
+
+PDF versions of the talks can be downloaded from the following list. Links to the recorded videos will be published later.
+
+ * [Tom Nicholls : Bringing Long Running Geostatistical Calculations to Public Health Professionals in the Developing World](presentations/Lancaster-Nicholls.pdf)
+ * [Daniel Evans : From space to GeoTIFF - creating remote sensing data products](presentations/Lancaster-Evans.pdf)
+ * [Barry Rowlingson : Mapping a 1950s Circumnavigation with Open Source and Open Sources.](presentations/Lancaster-Rowlingson.pdf)
+ * [Katherine McDonough : MapReader](presentations/Lancaster-McDonough.pdf)
+ * [Ana María Pacheco Pascagaza : Connecting Google Colab and Earth Engine for Satellite Imagery Analysis and Vegetation Monitoring](presentations/Lancaster-Pascagaza.pdf)
+ * [Jonny Huck : Paper2GIS: a paper interface to your GIS database](presentations/Lancaster-Huck.pdf)
 
 
 ### Sponsors
@@ -42,8 +52,7 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Call for Talks
 
-The call for talks is now closed, but if you are still interested in presenting contact Barry and
-there may be space in the programme for lightning talks or announcements.
+The call for talks is now closed, and the conference has happened. 
 
 
 ### Registration
