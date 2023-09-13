@@ -68,7 +68,7 @@ Local Lunch|12:45 - 13:45|-|Lunch served at venue room (local)
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
-Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets**
+Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets** [Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Holloway.pdf)
 Local Session #3|14:15 - 14:30|Kevin O'Brien|**R - Dashboards and Shiny Apps** 
 Local Session #3|14:30 - 14:45|Everyone locally|**Unconference - discussion of next steps for OSGeoIE** (not streamed!)
 
