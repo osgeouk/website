@@ -10,7 +10,7 @@ layout: default
 
 We will be making videos available through YouTube in due course. 
 
-Please do fill out the [feedback form](https://forms.gle/penyfTYhV733E7Yz5) with your comments and ideas for the future. Remember you have until 17:00 Thurs 21st Sept to be in the draw for a free e-book from [Locate Press](https://locatepress.com/). 
+Please do fill out the [feedback form](https://forms.gle/penyfTYhV733E7Yz5) with your comments and ideas for the future. Remember you have until 09:00 Mon 25th Sept to be in the draw for a free e-book from [Locate Press](https://locatepress.com/). 
 
 <img title="FOSS4G Uk Local 2023 Logo" src="/foss4guklocal2023/images/foss4guk2023-logo.svg" style="display:block; width: 50%; margin: 0 auto;"/>
 

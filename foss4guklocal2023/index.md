@@ -7,9 +7,11 @@ layout: foss4guk2023
 
 **FOSS4G:UK Local 2023 is now over! Thanks to everyone who took part**
 
+[Feedback Form](https://forms.gle/penyfTYhV733E7Yz5) deadline extended to 09:00 Mon 25th Sept. 
+
 We will be making videos available through YouTube in due course. 
 
-Please do fill out the [feedback form](https://forms.gle/penyfTYhV733E7Yz5) with your comments and ideas for the future. Remember you have until 17:00 Thurs 21st Sept to be in the draw for a free e-book from [Locate Press](https://locatepress.com/). 
+Please do fill out the [feedback form](https://forms.gle/penyfTYhV733E7Yz5) with your comments and ideas for the future. Remember you have until 09:00 Mon 25th Sept to be in the draw for a free e-book from [Locate Press](https://locatepress.com/). 
 
 **Full programme overview: [PDF](2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"}, [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](#venues) for more details**
 
