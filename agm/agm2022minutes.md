@@ -14,7 +14,7 @@ Alastair Graham, Tom Armitage, Matt Walker
 ### Minutes
 The [minutes of the 2021](https://uk.osgeo.org/agm/agm2021minutes.html) AGM were approved. 
 
-### Accounts 2020-2021
+### Accounts 2021-2022
 The Treasurer presented a summary of the accounts, and these were accepted.
 
 * Total Income: £0
