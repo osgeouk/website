@@ -42,7 +42,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) and [Spark
 | **11:15-12:45**  | **Local FOSS4G Use Cases Session**
 | 11:15-11:45  | Petya Kangalova ([Humanitarian Open Street Map Team](https://www.hotosm.org/)) "The collective power: HOT's approach to building open geospatial technology" *[Slides](presentations/Bristol_Petya Kangalova-FOSS4GUK- HOTOSM.pdf)*|
 | 11:45-12:15  | Mark Gibbons ([Centre for Sustainable Energy](https://www.cse.org.uk/)) "Solar potential modelling for household and community solar" *[Slides](presentations/Bristol_Mark Gibbons 20230907_CSE_FOSS4GUK_Bristol.pdf)*|
-| 12:15-12:30⚡  | Rob Burgess ([Inosys](https://www.inosys.co.uk/)) "FOSS4G for Offshore Platform Electrification" [Slides](presentations/Bristol_Rob Bugress FOSS4G Offshore Platform Electrification Talk.pdf)|
+| 12:15-12:30⚡  | Rob Burgess ([Inosys](https://www.inosys.co.uk/)) "FOSS4G for Offshore Platform Electrification" *[Slides](presentations/Bristol_Rob Bugress FOSS4G Offshore Platform Electrification Talk.pdf)*|
 | 12:30-12:45⚡  | Javier Garcia Lopez ([4 Earth Intelligence](https://www.4earthintelligence.com/)) "Satellite Marine Habitat Mapping" *[Slides](presentations/Bristol_Javier García López 4EI_FOSS4G_SD_Marine_Habitat_Mapping_20230907.pdf)*
 | 12:45-13:45  | Lunch break
 | **13:45-14:45**  | **Local Session Tech Sessions (Two Tracks)** |
