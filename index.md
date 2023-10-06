@@ -4,35 +4,10 @@ layout: default
 
 
 ### FOSS4G:UK Local 2023
-#### Thurs 7<sup>th</sup> Sept 2023
 
-**[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) is now over! Thanks to everyone who took part**
+FOSS4G:UK Local 2023 went really well. It was held on Thurs 7th Sept, and we reached about 250 people across eight venues in two countries. We raised about £5000 for OSGeo:UK which will go towards our funding of Open Source Geospatial software over the coming year. The full programme is available in [PDF](2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"} or [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](#venues) pages for more details. 
 
-We will be making videos available through YouTube in due course. 
-
-<img title="FOSS4G Uk Local 2023 Logo" src="/foss4guklocal2023/images/foss4guk2023-logo.svg" style="display:block; width: 50%; margin: 0 auto;"/>
-
-[OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! 
-
-This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference: 
-
-- [Glasgow](foss4guklocal2023/glasgow.html) *University of Glasgow*
-- [Lancaster](foss4guklocal2023/lancaster.html) *Fraser House Hub*
-- [Keyworth (Nottingham)](foss4guklocal2023/keyworth.html) *British Geological Society*
-- [Maynooth (Ireland)](foss4guklocal2023/maynooth.html) *Maynooth University*
-- [London](foss4guklocal2023/london.html) *Geovation*
-- [Swansea](foss4guklocal2023/swansea.html) *UWTSD IQ Campus*
-- [Basingstoke](foss4guklocal2023/basingstoke.html) *Willis Museum*
-- [Bristol](foss4guklocal2023/bristol.html) *Engine Shed*
-
-We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). We will also have the [Ten Years After](foss4guklocal2023/ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
-
-We are adopting a similar structure to last year, with the keynotes and panel discussion streamed to all venues and to YouTube. 
-
-For more details, check out the [website](foss4guklocal2023/index.html).  
-
-If you are interested in volunteering at one of the venues above, or have any questions, please get in touch via [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"} or [OSGeoUK@gmail.com](mailto:osgeouk@gmail.com){:target="_newpage"}. 
-
+We have done a short [write up](lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We’re planning to run a conference in 2024, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or email <span class="osgeoemail"></span> to find out when we’ll be meeting to discuss this.
 
 ----
 

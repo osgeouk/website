@@ -9,22 +9,19 @@ layout: foss4guk2023
 
 We will be making videos available through YouTube in due course. 
 
-**Full programme overview: [PDF](2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"}, [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](#venues) for more details**
+FOSS4G:UK Local 2023 went really well. It was held on Thurs 7th Sept, and we reached about 250 people across eight venues in two countries. We raised about £5000 for OSGeo:UK which will go towards our funding of Open Source Geospatial software over the coming year. The full programme is available in [PDF](2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"} or [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](#venues) pages for more details. 
 
-[OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK and Ireland. Take a look at our previous programmes for [FOSS4G:UK Local 2022](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148),  [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
+We have done a short [write up](lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We’re planning to run a conference in 2024, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or email <span class="osgeoemail"></span> to find out when we’ll be meeting to discuss this.
 
-This will be a hybrid conference, but with a twist: there will be no central physical location. We have eight venues geographically dispersed across the UK and Ireland, where you can physically meet up to attend the conference. The two keynote presentations and panel session will be streamed to all venues. Additional sessions will be run at each local venue.
+Thanks to everyone who took part, and thank you for filling the feedback form. Thanks to sponsorship from Locate Press, we have given away 10 Locate Press books to those who completed the feedback form, including:
 
-If there is no physical location near you, you can join remotely and view the streamed sessions from wherever you are. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
-
-If you are interested in volunteering at one of the venues below, please get in touch via [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"} or <span class="osgeoemail"></span>.
-
-We are adopting a similar structure to last year, with the keynotes and panel discussion streamed to all venues and to YouTube. 
-
+- Ian Turton, who chose a copy of (Earth Engine and Geemap)[https://locatepress.com/book/gee]
+- Matthew Paice
+- Daniel Evans
 
 ## Venues
 
-We have eight venues:
+We had eight venues:
 
 - [Glasgow](glasgow.html) *University of Glasgow*
 - [Lancaster](lancaster.html) *Fraser House Hub*
@@ -35,11 +32,11 @@ We have eight venues:
 - [Basingstoke](basingstoke.html) *Willis Museum*
 - [Bristol](bristol.html) *Engine Shed*
 
-You can also watch [online](online.html) if you wish, however the best experience will be in person. You are welcome to chat to other participants in the [OSGeo:UK & FOSS4G:UK Matrix Room](https://matrix.to/#/#OSGeoUK:matrix.org). 
+You are welcome to chat to other participants in the [OSGeo:UK & FOSS4G:UK Matrix Room](https://matrix.to/#/#OSGeoUK:matrix.org). 
 
 ## Keynotes
 
-We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). 
+We had two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). 
 
 ### Helen McKenzie, Geospatial Advocate at CARTO: Getting People Excited about Geo! *(09:45, streamed live to all venues and online)*
 
@@ -51,7 +48,7 @@ We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatia
 
 ### Ten Years After
 
-We will also have the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
+We will also had the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
 
 ## Registration
 
@@ -64,16 +61,6 @@ We want FOSS4G:UK Local 2023 to be as accessible as possible, so we have a numbe
 Any surplus made from the tickets will join any surplus from the sponsorship and conference as a whole, and be used to allow OSGeo:UK to provide financial support to open source geospatial projects (for example see [Past Donations](https://uk.osgeo.org/pastdonations.html) to see how we have supported open source geospatial project previously). 
 
 Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
-
-## T-Shirts
-
-Official T-Shirts are now on sale from [T Shirt Studio](https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt)
-at cost price plus P+P. 
-
-<a href="https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt">
-<img src="https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt-front.jpg" width="240" alt="FOSS4G:UK Local 2023 t-shirt" />
-<img src="https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt-back.jpg" width="240" alt="FOSS4G:UK Local 2023 t-shirt" />
-</a>
 
 ## Code of Conduct
 
