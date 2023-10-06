@@ -15,9 +15,11 @@ We have done a short [write up](lessons-learned.html), summarising some of the f
 
 Thanks to everyone who took part, and thank you for filling the feedback form. Thanks to sponsorship from Locate Press, we have given away 10 Locate Press books to those who completed the feedback form, including:
 
-- Ian Turton, who chose a copy of (Earth Engine and Geemap)[https://locatepress.com/book/gee]
+- Ian Turton, who chose a copy of [Earth Engine and Geemap](https://locatepress.com/book/gee)
 - Matthew Paice
 - Daniel Evans
+
+Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 ## Venues
 
@@ -49,18 +51,6 @@ We had two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatial
 ### Ten Years After
 
 We will also had the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
-
-## Registration
-
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Book early to bag your place - last year almost all venues sold out. Additionally, refunds are available from Eventbrite (less a service fee) up to seven days before the event.
-
-After much discussion, we have decided to charge a nominal fee of £20 for a ticket to attend. This is not a decision we have taken lightly, and is primarily due to a high rate of no-shows at some venues last year (up to 40%, see [lessons learned from 2022 for more details](https://uk.osgeo.org/foss4guk2022local/lessons-learned.html)). No-shows prevent others who would like to attend from attending and we end up over ordering on catering and wasting food. 
-
-We want FOSS4G:UK Local 2023 to be as accessible as possible, so we have a number of codes available for free tickets. These are available for students, under represented groups, those on a low income, those in precarious employment, those who would like to volunteer and anyone else for whom a £20 ticket would be a barrier (financial or administrative). All of these criteria are self-defined. We very much encourage you to reach out to <span class="osgeoemail"></span> to ask for a code, stating which group you belong to (no further justification is needed). 
-
-Any surplus made from the tickets will join any surplus from the sponsorship and conference as a whole, and be used to allow OSGeo:UK to provide financial support to open source geospatial projects (for example see [Past Donations](https://uk.osgeo.org/pastdonations.html) to see how we have supported open source geospatial project previously). 
-
-Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 ## Code of Conduct
 

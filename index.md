@@ -5,9 +5,9 @@ layout: default
 
 ### FOSS4G:UK Local 2023
 
-FOSS4G:UK Local 2023 went really well. It was held on Thurs 7th Sept, and we reached about 250 people across eight venues in two countries. We raised about £5000 for OSGeo:UK which will go towards our funding of Open Source Geospatial software over the coming year. The full programme is available in [PDF](2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"} or [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](#venues) pages for more details. 
+FOSS4G:UK Local 2023 went really well. It was held on Thurs 7th Sept, and we reached about 250 people across eight venues in two countries. We raised about £5000 for OSGeo:UK which will go towards our funding of Open Source Geospatial software over the coming year. The full programme is available in [PDF](foss4guklocal2023/2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"} or [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](#venues) pages for more details. 
 
-We have done a short [write up](lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We’re planning to run a conference in 2024, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or email <span class="osgeoemail"></span> to find out when we’ll be meeting to discuss this.
+We have done a short [write up](foss4guklocal2023/lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We’re planning to run a conference in 2024, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or email <span class="osgeoemail"></span> to find out when we’ll be meeting to discuss this.
 
 ----
 
