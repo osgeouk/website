@@ -8,12 +8,11 @@ Local Venue Chairs: [Piet Gerrits](https://pgerrits.com/), [Guy Solomon](https:/
 
 <img src="images/uni-of-glasgow.jpg" width="600" align="middle">
 
-### Registration
+### Sponsors
 
-We are very happy to announce that due to recent sponsorship the Glasgow event is now FREE. Register with discount code **FOSSGLA** to take advantage of this opportunity. If you would still like to donate to OSGeo:UK and FOSS4G:UK, you can do so [here](https://uk.osgeo.org/donations.html). If you have already registered for the Glasgow event and would like to request reimbursement, please contact Petrus Gerrits (<p.gerrits.1@research.gla.ac.uk>) or 
-Guy Solomon (<Guy.Solomon@glasgow.ac.uk>).
+We are very grateful for the support of [University of Glasgow](https://www.gla.ac.uk/) for sponsoring FOSS4G:UK Local 2023 at this event. 
 
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
+Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 ### Programme - Thursday 7th September 2023
 
@@ -46,8 +45,6 @@ Time | Speaker| Title
 :-----|:-----|:-----
 11:15 - 12:45|Steven Kay|Introduction to using Blender for 3d cartography (Workshop)
 
-If you would like to participate in Steven's workshop, please bring your own device and install Blender 3.5+ beforehand - although no prior knowledge of Blender is required. You can bring your own geoTIFF if desired, but some ready-made DEMs and textures will also be made available. A GPU is not required, **but a mouse is strongly recommended**.
-
 This is followed by:
 
 Time | Speaker| Title
@@ -60,26 +57,6 @@ Time | Speaker| Title
 15:30 - 16:30|_Panel Session_|_FOSS4G 2013 Panel Session: 10 years on_ *[YouTube](https://youtube.com/live/2UReJqFle_Y?feature=share)*
 16:30 - 16:45|_National Chair_|_Wrap up by National Chair_
 16:45|-|**Conference Close**
-
-### Call for Talks
-
-The call for talks is now closed, but if you are still interested in presenting contact Guy Solomon (<Guy.Solomon@glasgow.ac.uk>) or 
-Petrus Gerrits (<p.gerrits.1@research.gla.ac.uk>) and
-there may be space in the programme for lightning talks or announcements.
-
-### Sponsors
-
-We are very grateful for the support of [University of Glasgow](https://www.gla.ac.uk/) for sponsoring FOSS4G:UK Local 2023 at this event. 
-
-
-### Location & Travel
-
-Senate Room<br>
-[University of Glasgow](https://www.openstreetmap.org/way/26624925#map=17/55.87326/-4.28901)<br>
-Glasgow<br>
-G12 8QQ<br>
-
-We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/glasgow.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*

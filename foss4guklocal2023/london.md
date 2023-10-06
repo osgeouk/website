@@ -16,24 +16,8 @@ We are very grateful to Landmark Information for sponsoring lunch in  London at 
 
 [<img src="images/Landmark_Logo.png" width="300" align="middle">](https://www.landmark.co.uk/)
 
-### Location & Travel
-
-[Geovation](https://www.openstreetmap.org/node/3527722639#map=16/51.5250/-0.0971)<br>
-4th Floor<br>
-Sutton Yard<br>
-65 Goswell Rd.<br>
-London<br>
-EC1V 7EN<br>
-
-[Entrance through Sutton Yard off Goswell Road](https://www.openstreetmap.org/search?query=geovation#map=19/51.52435/-0.09974)
-
-We encourage everyone to travel by public transport/car share/under their own steam if possible.
-
-
 ### Programme for London
  
-The agenda times and speakers could be subject to late change.
-
 [Morning YouTube stream](https://youtube.com/live/KCIsSJFubEo?feature=share) - [Afternoon YouTube stream](https://youtube.com/live/J-TEsDnBsSc?feature=share)
 
 * 09:00-09:30: Arrive
@@ -64,25 +48,6 @@ The agenda times and speakers could be subject to late change.
 
 * 16:45-? : Local Pub see below
 
-### Information for Speakers for London
-
-In terms of presenting format and setup, since we're running a "distributed" conference, all talks will be live streamed to youtube via the [Jitsi](https://jitsi.org/) steaming management app. This means we will need to have a "fixed" presentation laptop that is hooked up to the AV system, and so you will be expected to present from this. The presentation laptop will have a good wifi connection.
-
-We encourage you to keep it simple and not to be dependent on any specialist presentation tools. We expect all presenters to provide a standalone PDF of their presentation which will be queued on the presentation laptop before the day. However, if you prefer to use an online format, e.g. google slides (or similar), or even a PDF that's on a URL, that is fine too, but please supply the URL to the presentation in advance too.
-
-Note, the presentation laptop **will not** have a copy of Microsoft Powerpoint. So if you're using Powerpoint to construct your deck, please export to PDF and check it any for any funky formatting quirks, since we'll use your PDF on the day.
-
-If you have indicated you'd like to do a live demo on your submission, you'll be contacted directly about this.
-
-Please supply a copy of your PDF, and if using, a URL to your slide deck, by no later that 17:00 on Tuesday 5th September 2023 to allow us to queue up your material beforehand. Please see your confirmation email for the contact email address for this.
-
-
-### After conference drinks
-
-FOSS4G:UK will finish at about 16:45pm, we plan to go for a drink (not included in your registration) after the event at the [Sutton Arms, 16 Great Sutton St, London EC1V 0DH](https://www.openstreetmap.org/way/149070189)
-
-### Registration
-
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
+Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/london.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
