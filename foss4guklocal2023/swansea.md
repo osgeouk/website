@@ -15,23 +15,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for suppor
 
 --> 
 
-### Location & Travel
-
-[Lecture room IQ001](https://www.openstreetmap.org/way/1138254725#map=15/51.6145/-3.9275)<br>
-Waterfront<br>
-IQ Campus University of Wales Trinity<br>
-Swansea<br>
-SA1 8EW<br>
-
-We encourage everyone to travel by public transport/car share/under their own steam if possible.
-
-### Call for Talks
-
-There is still time to submit a talk, but please email Tom directly. [Tom Colley](mailto:tomcolley@gmail.com)
-
 ### Agenda
-
-[Morning YouTube stream](https://youtube.com/live/2YpW4FJjoog?feature=share) - [Afternoon YouTube stream](https://youtube.com/live/YrDaCGuT1_o?feature=share)
 
 * 09:00-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
@@ -50,9 +34,3 @@ There is still time to submit a talk, but please email Tom directly. [Tom Colley
 * 16:45: Conference close
 * 17:00-? : GeoDrinks @ [Beer Riff](https://beerriffbrewing.com/){:target="_newpage"}
 
-
-### Registration
-
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
-
-*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/swansea.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*

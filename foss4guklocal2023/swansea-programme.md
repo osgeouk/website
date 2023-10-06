@@ -39,3 +39,5 @@ Ujaval will take you through the evolution of the geospatial industry through th
 
 ### Ten Years After
 A panel discussion to mark ten years since FOSS4G 2013 in Nottingham, themed around “Where have we gone in the last ten years, and where will be in ten years time?”. More information [here](https://uk.osgeo.org/foss4guklocal2023/ten-years-after.html)
+
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/swansea-programme.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
