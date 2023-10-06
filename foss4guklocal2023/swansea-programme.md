@@ -15,22 +15,22 @@ Helen is a Geospatial Advocate at CARTO, a location intelligence platform provid
 
 When we originally set out to go with Open Source there was little interest in having any mobile working tools. The Warden Service were used to pen and paper solutions with a 'GIS' mapping system (QGIS) firmly fixed in the Office where it was considered 'over complicated'. The first thing needed was to update an older infrastructure to enable mobile working but there still remained the issue of poor (or no) mobile networks to update maps and data. 
 
-How do we satisfy the needs of both Volunteers who new little about mobile data 'collection' apps and Wardens who were sceptical.
+How do we satisfy the needs of both Volunteers who new little about mobile data 'collection' apps and Wardens who were sceptical. *[Slides](presentations/Swansea_shapley_1 bannau_brycheiniog_updating_an_opensource_sdi_for_mobile_working_foss4g_swansea_2023.pdf)*
 
 ### You're so spatial, let's get engaged!
 #### Josh Henley, Welsh Government
 
-Why did we decide to build public engagement functionality into a Geospatial data platform? Find out how the FOSS4G stack behind DataMapWales has injected serious spatial intelligence into surveys and consultations, providing new insights and high-quality data for projects like the national forest for wales, active travel, digital inclusion and CADW’s historic monuments.
+Why did we decide to build public engagement functionality into a Geospatial data platform? Find out how the FOSS4G stack behind DataMapWales has injected serious spatial intelligence into surveys and consultations, providing new insights and high-quality data for projects like the national forest for wales, active travel, digital inclusion and CADW’s historic monuments. *[Slides](presentations/Swansea_henley_2 FOSS4G engagement presentation.pdf)*
 
 ### Building The Welsh Data Cube
 #### Daniel Clewley, Plymouth Marine Laboratory
 
-Living Wales is an innovation that is providing open capacity, in Wales and internationally, to routinely and consistently generate national land cover and change products from Earth observation data. A major component is the implementation of the OpenDataCube and an associated JupyterHub instance that provides easy access to satellite data (currently Sentinel 1 and Sentinel 2) and derived products. This set up allows users within and outside of Welsh government to easily access the satellite archive and other spatial data and perform analysis through a web browser without having to download data or install software packages.
+Living Wales is an innovation that is providing open capacity, in Wales and internationally, to routinely and consistently generate national land cover and change products from Earth observation data. A major component is the implementation of the OpenDataCube and an associated JupyterHub instance that provides easy access to satellite data (currently Sentinel 1 and Sentinel 2) and derived products. This set up allows users within and outside of Welsh government to easily access the satellite archive and other spatial data and perform analysis through a web browser without having to download data or install software packages. *[Slides](presentations/Swansea_clewley_3 FOSS4G_Welsh_Data_Cube_Clewley.pdf)*
 
 ### Building and maintaining Paths to Wellbeing for Ramblers Cymru
 #### Matt Walker, Astun Technology and Rhys Wynne-Jones, Ramblers Cymru
 
-Case study of building a website to showcase community curated walking routes using open source geospatial software. Brief background to the project, live demo and a look at the technology used to build, maintain and deploy it.
+Case study of building a website to showcase community curated walking routes using open source geospatial software. Brief background to the project, live demo and a look at the technology used to build, maintain and deploy it. *[Slides](presenrtations/Swansea_walker_4 Ramblers Cymru - Paths to Wellbeing.pdf)*
 
 ### Building a career with open-source technologies
 #### Ujaval Gandhi
