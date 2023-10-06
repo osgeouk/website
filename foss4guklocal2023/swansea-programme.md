@@ -8,7 +8,7 @@ venuepage: swansea.html
 
 ### Geospatial Evangelism
 #### Helen McKenzie, CARTO
-Helen is a Geospatial Advocate at CARTO, a location intelligence platform provider since 2012. Her role is to excite people in the application of geospatial technologies.
+Helen is a Geospatial Advocate at CARTO, a location intelligence platform provider since 2012. Her role is to excite people in the application of geospatial technologies. *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing)*
 
 ### Updating an Open Source SDI for Mobile Working 
 #### Paul Shapley, Bannau Brycheiniog National Park Authority
@@ -30,12 +30,12 @@ Living Wales is an innovation that is providing open capacity, in Wales and inte
 ### Building and maintaining Paths to Wellbeing for Ramblers Cymru
 #### Matt Walker, Astun Technology and Rhys Wynne-Jones, Ramblers Cymru
 
-Case study of building a website to showcase community curated walking routes using open source geospatial software. Brief background to the project, live demo and a look at the technology used to build, maintain and deploy it. *[Slides](presenrtations/Swansea_walker_4 Ramblers Cymru - Paths to Wellbeing.pdf)*
+Case study of building a website to showcase community curated walking routes using open source geospatial software. Brief background to the project, live demo and a look at the technology used to build, maintain and deploy it. *[Slides](presentations/Swansea_walker_4 Ramblers Cymru - Paths to Wellbeing.pdf)*
 
 ### Building a career with open-source technologies
 #### Ujaval Gandhi
 
-Ujaval will take you through the evolution of the geospatial industry through the past two decades with his personal journey from working at Google to starting his own academy focused on open-source technologies. You will get to hear how open-source technologies - GDAL, QGIS, and Python - played a key role in his career and helped solve complex geospatial problems and build data pipelines for processing petabytes of data. The talk will conclude by looking at emerging trends and how to prepare oneself to thrive in the current environment.
+Ujaval will take you through the evolution of the geospatial industry through the past two decades with his personal journey from working at Google to starting his own academy focused on open-source technologies. You will get to hear how open-source technologies - GDAL, QGIS, and Python - played a key role in his career and helped solve complex geospatial problems and build data pipelines for processing petabytes of data. The talk will conclude by looking at emerging trends and how to prepare oneself to thrive in the current environment. *[Slides](https://bit.ly/foss4g-uk-keynote-ujaval)*
 
 ### Ten Years After
 A panel discussion to mark ten years since FOSS4G 2013 in Nottingham, themed around “Where have we gone in the last ten years, and where will be in ten years time?”. More information [here](https://uk.osgeo.org/foss4guklocal2023/ten-years-after.html)
