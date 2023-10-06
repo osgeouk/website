@@ -1,10 +1,6 @@
 ---
-layout: foss4guk2022
+layout: foss4guk2023
 ---
-
-lessons-learned-expectations.png
-lessons-learned-talks.png
-lessons-learned-similar-event.png
 
 ## FOSS4G:UK Local 2023 - Lessons Learned
 
@@ -18,11 +14,11 @@ We received 73 responses to the feedback form (~27% of attendees). The headline 
 - 86% rated the quality of the talks as 4 or 5
 - 86% rated the venues as 4 or 5. 
 
-<a href="images/lessons-learned-expectations.png"><img src="images/lessons-learned-expectations.png" height="100"></a>  
+<a href="images/lessons-learned-expectations.png"><img src="images/lessons-learned-expectations.png" height="200"></a>  
 
-<a href="images/lessons-learned-talks.png"><img src="lessons-learned-talks.png" height="100"></a>
+<a href="images/lessons-learned-talks.png"><img src="images/lessons-learned-talks.png" height="200"></a>
 
-<a href="images/llessons-learned-similar-event.png"><img src="lessons-learned-similar-event.png" height="100"></a>  
+<a href="images/llessons-learned-similar-event.png"><img src="images/lessons-learned-similar-event.png" height="200"></a>  
 
 This year we decided to charge a nominal £20 fee for tickets, because we had some venues last year with a high proportion of no-shows, up to ⅓ in some cases. We sold a broadly similar number of tickets and we also made codes available for people who would not be able to pay for a ticket. We had 12 codes used for free tickets, to enable those from underrepresented groups, students, local authorities, those with low income or those on precarious employment contracts to attend. 
 
