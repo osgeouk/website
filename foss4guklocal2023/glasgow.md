@@ -35,8 +35,8 @@ We then have two parallel sessions:
 
 Time | Speaker| Title
 :-----|:-----|:-----
-11:15 - 11:45|Mike Spencer [Smart Data Foundry]|Beyond the *IMD - filling the gap *[Slides](presentations/Glasgow_Mike_Spencer.pdf)*
-11:45 - 12:15|Junaid Abdul Jabbar [University of Cambridge]|Mapping Archaeological Heritage in South Asia: open-source technologies and sustainability *[Slides](Glasgow_Junaid_Abdul_Jabbar.pdf)*
+11:15 - 11:45|Mike Spencer [Smart Data Foundry]|Beyond the \*IMD - filling the gap *[Slides](presentations/Glasgow_Mike_Spencer.pdf)*
+11:45 - 12:15|Junaid Abdul Jabbar [University of Cambridge]|Mapping Archaeological Heritage in South Asia: open-source technologies and sustainability *[Slides](presentations/Glasgow_Junaid_Abdul_Jabbar.pdf)*
 12:15 - 12:45|Paul Georgie [Geo Geo]|Unreal Geospatial: Rise of the Game Engines *[Slides](presentations/Glasgow_Paul_Georgie.pdf)*
 
 or:
@@ -50,7 +50,7 @@ This is followed by:
 Time | Speaker| Title
 :-----|:-----|:-----
 12:45 - 13:45|-|**Lunch**|
-13:45 - 14:15|Liam O'Connor [Compass Informatics]|MapServer in an asset management system|
+13:45 - 14:15|Liam O'Connor [Compass Informatics]|MapServer in an asset management system *[Slides](https://select-8.github.io/foss4glocal2023-mapserver-in-pms-/)*|
 14:15 - 14:45|Robert Coup [Koordinates]|Kart: Practical Data Versioning for rasters, vectors, tables, and point clouds *[Slides](presentations/Glasgow_Robert_Coup.pdf)*|
 14:45 - 15:15|_Ujaval Gandhi [Google]_|_Keynote: Geospatial Careers_ *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)*
 15:15 - 15:30|-|**Coffee Break**
