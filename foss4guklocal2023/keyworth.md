@@ -41,7 +41,7 @@ Time | Speaker| Title|
 10:30 - 10:45|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool *[Slides](presentations/Keyworth_JinIgarashiSlides.pdf) [YouTube](https://youtu.be/_ZUdAvEDoWc)*
 10:45 - 11:15|-|Coffee break
 11:15 - 11:30|Chris Jackson|Generating and sharing a two-metre resolution land cover map of London *[Slides](presentations/Keyworth_ChrisJacksonSlides.pdf) [YouTube](https://youtu.be/oqBYrFGNURk)*
-11:30 - 11:45|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
+11:30 - 11:45|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field *[YouTube](https://youtu.be/T1ZQ53FAQ78)*
 11:45 - 12:00|-|Break
 12:00 - 12:15|T.B.C.|
 12:15 - 12:30|Tony Brookes|Using QGIS to organise 500,000 years of history *[Slides](presentations/Keyworth_TonyBrookesSlides.pdf) [YouTube](https://youtu.be/7YCX8QZ27KU)*
