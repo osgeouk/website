@@ -12,9 +12,11 @@ We formalised this process in [2022](https://lists.osgeo.org/pipermail/uk/2022-S
 
 We are looking to use this money to fund relevant projects in the range of £500 - £1000 each.
 
-We would like to hear from you - what project(s) do you think we should fund? We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Mon 13th Nov 2023 (one week before the AGM on Mon 20th Nov 2303). We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these for discussion at the AGM.
+We would like to hear from you - what project(s) do you think we should fund? 
 
-We have funding guidelines online at https://uk.osgeo.org/fundingguidelines.html, but briefly, we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
+We are making this as simple a process as possible, so please submit your ideas to osgeouk AT gmail DOT com <span class="osgeoemail"></span> by Mon 13th Nov 2023 (one week before the AGM on Mon 20th Nov 2303). We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these for discussion at the AGM.
+
+We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
 
 We will discuss the submissions at the AGM, and decide which ones to fund. 
 
@@ -44,7 +46,6 @@ With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){
 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/gofundgeo.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
-
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
