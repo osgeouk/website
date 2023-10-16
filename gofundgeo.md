@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# GoFundGeo - Supporting Open Source Geospatial software development in the UK
+## GoFundGeo 
+
+### Supporting Open Source Geospatial software development in the UK
 
 Every year at our AGM (November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. 
 
@@ -16,9 +18,15 @@ We have funding guidelines online at https://uk.osgeo.org/fundingguidelines.html
 
 We will discuss the submissions at the AGM, and decide which ones to fund. 
 
+I am also very pleased to confirm that the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who provided funding of £250 in 2022 have agreed to provide £250 again in 2023. 
+
+[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
+
+If your organisation is interested supporting future funding, please email [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+
 Any questions, please do ask. 
 
-#### 2021-22 
+### 2021-22 
 
 [As agreed at the 2022 AGM](https://uk.osgeo.org/agm/agm2022minutes.html){:target="_newpage"}:
 
