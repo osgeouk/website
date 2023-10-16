@@ -42,7 +42,7 @@ Any questions, please do ask.
 
 [<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
 
-With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/gofundgeo.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
