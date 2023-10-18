@@ -14,7 +14,7 @@ We are looking to use this money to fund relevant projects in the range of £500
 
 We would like to hear from you - what project(s) do you think we should fund? 
 
-We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Mon 13th Nov 2023 (one week before the AGM on Mon 20th Nov 2303). We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these for discussion at the AGM.
+We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Mon 13th Nov 2023 (one week before the AGM on Mon 20th Nov 2023). We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these for discussion at the AGM.
 
 We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
 
