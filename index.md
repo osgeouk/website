@@ -38,7 +38,7 @@ See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for 
 
 ### Contact
 
-For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk){:target="_newpage"}, [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, or [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"}.
+For updates follow [@osgeouk on Mastodon](https://fosstodon.org/@osgeouk), [@osgeouk on Twitter](https://twitter.com/osgeouk){:target="_newpage"}, [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, or [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"}.
 
 
 ### Training
