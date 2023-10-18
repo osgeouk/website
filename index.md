@@ -2,6 +2,13 @@
 layout: default
 ---
 
+### GoFundGeo & AGM 2023
+
+OSGeo:UK [AGM](https://uk.osgeo.org/agm/agm2023.html) will take place on Mon 20th Nov 2024, 12pm - 1pm (GMT, UK/London) online using Zoom. We hope to see you there.
+
+We will also discuss how we want to use the £6000 of funding to support open source geospatial software development. We've decided to call this '[GoFundGeo](gofundgeo.html)' and we are running the process similar to last year, where we supported 5 projects with a total of £3,878.52. Check out the link for details including how to apply, and join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) for details of the projects that apply. 
+
+----
 
 ### FOSS4G:UK Local 2023
 
@@ -11,28 +18,11 @@ We have done a short [write up](foss4guklocal2023/lessons-learned.html), summari
 
 ----
 
-### FOSS4G:UK Local 2022
-
-We had a great [FOSS4G:UK Local 2022](/foss4guk2022local/) conference on Thurs 17th Nov 2022. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams){:target="_newpage"}. 
-
-We have done a short [write up](/foss4guk2022local/lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We're aiming to run a conference in 2023, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to find out when we'll be meeting to discuss this. 
-
-----
-
-[FOSS4GUK Online 2020](/foss4gukonline2020/) was a big success - for an outlay of around £200, we had:
-
-* 600 delegates from 77 countries
-* 33 presentations
-* £2,500 raised for OSGeo and MapAction
-* 270 subscribers to our YouTube channel
-
-[FOSS4GUK 2019](/foss4guk2019/){:target="_newpage"} has been and gone, and was an enormously successful event. Our thanks go out to the organising committee, sponsors and delegates. Videos are available on our [YouTube channel](https://www.youtube.com/channel/UCg0wX857AHUGM3qCzR6PcwQ){:target="_newpage"}. Also see the twitter hashtags [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK){:target="_newpage"} and [#FOSS4GUK2019](https://twitter.com/search?q=%23foss4guk2019){:target="_newpage"} for a sense of what it was like.
-
----
-
 ### Events
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
+
+[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) | [FOSS4G:UK Local 2022](/foss4guk2022local/) | [FOSS4GUK Online 2020](/foss4gukonline2020/) | [FOSS4GUK 2019](/foss4guk2019/)
 
 See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
@@ -65,7 +55,7 @@ __Committee__
 * [Tom Chadwin](https://en.osm.town/@tomchadwin)
 * [Alastair Graham](https://twitter.com/ajggeoger)
 * [Tom Armitage](https://twitter.com/MapNav_Tom)
-* [Joseph Seddon](https://twitter.com/josephseddon) \*co-opted non-voting member
+* [Joseph Seddon](https://twitter.com/josephseddon) *co-opted non-voting member*
 
 ### Funding
 

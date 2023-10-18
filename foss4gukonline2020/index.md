@@ -1,6 +1,15 @@
 ## FOSS4G UK Online 2020
 <img src="images/FOSS4GUK-2020-Logo-v4-text-as-paths.svg" width="300" height="300" alt="Graphic by Rosalid Cuttle" align="middle">
 
+FOSS4GUK Online 2020 was a big success - for an outlay of around £200, we had:
+
+* 600 delegates from 77 countries
+* 33 presentations
+* £2,500 raised for OSGeo and MapAction
+* 270 subscribers to our YouTube channel
+
+----
+
 [OSGeo:UK](https://uk.osgeo.org/) are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of IRL FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
 
 ## Programme

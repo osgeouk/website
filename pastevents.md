@@ -4,14 +4,24 @@ layout: default
 
 ### Past events
 
+### 2023
+
+* [OSGeo:UK AGM 2023](/agm/agm2023.html)
+* [FOSS4G:UK Local 2023](/foss4guklocal2023/index.html)
+
+### 2022
+
+* [FOSS4G:UK Local 2022](/foss4guk2022local/)
+* [OSGeo:UK AGM 2022](/agm/agm2022minutes.html)
+
 ### 2021
 
-* [OSGeo:UK AGM 2021](agm/agm2021minutes.html)
+* [OSGeo:UK AGM 2021](/agm/agm2021minutes.html)
 
 ### 2020
 
 * [FOSS4GUK Online 2020](/foss4gukonline2020/) 
-* [OSGeo:UK AGM 2020](agm/agm2020minutes.html)
+* [OSGeo:UK AGM 2020](/agm/agm2020minutes.html)
 
 #### 2019
 
