@@ -44,6 +44,7 @@ Any questions, please do ask.
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
 
+Additional donations have been made previously. See [past donations](pastdonations.html) for details of these. 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/gofundgeo.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
 

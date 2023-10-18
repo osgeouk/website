@@ -65,13 +65,13 @@ __Committee__
 * [Tom Chadwin](https://en.osm.town/@tomchadwin)
 * [Alastair Graham](https://twitter.com/ajggeoger)
 * [Tom Armitage](https://twitter.com/MapNav_Tom)
-* [Joseph Seddon](https://twitter.com/josephseddon)
+* [Joseph Seddon](https://twitter.com/josephseddon) \*co-opted non-voting member
 
 ### Funding
 
 From time to time we may choose to financially support an open source GIS project, or help someone attend an event. See [funding guidelines](fundingguidelines.html){:target="_newpage"} for more details on how to apply.
 
-See [past donations](pastdonations.html){:target="_newpage"} for yearly breakdowns on the projects we have supported to date.
+[GoFundGeo](gofundgeo.html){:target="_newpage"} annually funds a range of Open Source Geospatial software projects that will have an impact in the UK. Each year we use the surplus from our FOSS4G:UK conferences to fund relevant projects in the range of £500 - £1000 each. We also occasionally make ad-hoc donations to revelant projects, see [past donations](pastdonations.html){:target="_newpage"} for yearly breakdowns on the projects we have supported to date.
 
 ### Donate
 

@@ -4,6 +4,8 @@ layout: default
 
 ### Past Donations
 
+From 2022, OSGeo:UK has run [GoFundGeo](gofundgeo.html) annually which funds a range of Open Source Geospatial software projects that will have an impact in the UK. More details available on the [GoFundGeo](gofundgeo.html) page. 
+
 #### 2021-22 
 
 [As agreed at the 2022 AGM](https://uk.osgeo.org/agm/agm2022minutes.html){:target="_newpage"}:
@@ -19,8 +21,6 @@ layout: default
 [<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
-
-
 
 #### 2019-20
 * [PostGIS via Regina Obe](https://www.patreon.com/reginaobe/overview) : $60 per month inc VAT
