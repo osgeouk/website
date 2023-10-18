@@ -4,7 +4,7 @@ layout: default
 
 ### GoFundGeo & AGM 2023
 
-OSGeo:UK [AGM](https://uk.osgeo.org/agm/agm2023.html) will take place on Mon 20th Nov 2024, 12pm - 1pm (GMT, UK/London) online using Zoom. We hope to see you there.
+OSGeo:UK [AGM](https://uk.osgeo.org/agm/agm2023.html) will take place on Mon 20th Nov 2023, 12pm - 1pm (GMT, UK/London) online using Zoom. We hope to see you there.
 
 We will also discuss how we want to use the £6000 of funding to support open source geospatial software development. We've decided to call this '[GoFundGeo](gofundgeo.html)' and we are running the process similar to last year, where we supported 5 projects with a total of £3,878.52. Check out the link for details including how to apply, and join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) for details of the projects that apply. 
 
