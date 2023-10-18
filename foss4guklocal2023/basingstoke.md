@@ -22,11 +22,11 @@ We are very grateful for the support of Geoxphere for sponsoring FOSS4G:UK Local
 * 09:15-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
 * 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism" *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
-* 10:15-10:45: Local Talk: Dave Barter [Nautoguide] "Developing an opensource geocoder in GeoDjango" *[YouTube](https://www.youtube.com/watch?v=aICFQUnSA_Y)*
+* 10:15-10:45: Local Talk: Dave Barter [Nautoguide] "Developing an opensource geocoder in GeoDjango" *[Slides](presentations/Basingstoke_Dave_Barter.pdf) [YouTube](https://www.youtube.com/watch?v=aICFQUnSA_Y)*
 * 10:45-11:15: Coffee Break
 * 11:15-12:45: Local Workshop: Hannah Wight [Ordnance Survey] "Geospatial Data Visualisation"
 * 12:45-13:45: Lunch break
-* 13:45-14:15: Local Talk: Simon Miles [Geoxphere] "GDAL & Powershell" *[YouTube](https://www.youtube.com/watch?v=IDIbxdapVzQ)*
+* 13:45-14:15: Local Talk: Simon Miles [Geoxphere] "GDAL & Powershell" *[Slides](presentations/Basingstoke_Simon_Miles.pdf) [YouTube](https://www.youtube.com/watch?v=IDIbxdapVzQ)*
 * 14:15-14:45: Local Unconference / Lightning Talks
 * Local Talk: Introducing STAC (Spatial Temporal Asset Collection) - Ivica Matić and James Hinton *[YouTube](https://www.youtube.com/watch?v=i1KiTNeS5ns)*
 * 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers" *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)*
