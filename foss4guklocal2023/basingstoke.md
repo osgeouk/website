@@ -24,7 +24,7 @@ We are very grateful for the support of Geoxphere for sponsoring FOSS4G:UK Local
 * 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism" *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
 * 10:15-10:45: Local Talk: Dave Barter [Nautoguide] "Developing an opensource geocoder in GeoDjango" *[Slides](presentations/Basingstoke_Dave_Barter.pdf) [YouTube](https://www.youtube.com/watch?v=aICFQUnSA_Y)*
 * 10:45-11:15: Coffee Break
-* 11:15-12:45: Local Workshop: Hannah Wight [Ordnance Survey] "Geospatial Data Visualisation"
+* 11:15-12:45: Local Workshop: Hannah Wight [Ordnance Survey] "Geospatial Data Visualisation" *[Slides from same session run at Bristol by Jessica Baker](presentations/Bristol_Jessica_Baker_FOSS4G_SLIDES_PDF.pdf)*
 * 12:45-13:45: Lunch break
 * 13:45-14:15: Local Talk: Simon Miles [Geoxphere] "GDAL & Powershell" *[Slides](presentations/Basingstoke_Simon_Miles.pdf) [YouTube](https://www.youtube.com/watch?v=IDIbxdapVzQ)*
 * 14:15-14:45: Local Unconference / Lightning Talks
