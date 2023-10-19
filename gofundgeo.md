@@ -28,20 +28,28 @@ If your organisation is interested supporting future funding, please email [osge
 
 Any questions, please do ask. 
 
+----
+
 Some testimonials from previous funding recipients:
 
 "OSGeo:UK has been behind several of our development efforts and funded many of the works for improving QGIS. It is a very active and vibrant community and we enjoy participating in the annual FOSS4G:UK."
 
 *Saber Razmjooei, Managing Director, Lutra Consulting*
 
-[<img src="images/lutra-logo-gray.png" width="200">](https://www.lutraconsulting.co.uk/)
+[<img src="images/lutra-logo-gray.png" width="150">](https://www.lutraconsulting.co.uk/)
 
 
-"QGIS is the most popular Desktop Open Source GIS and offers tools not only for traditional GIS users, but also for serving data on the web, collecting data in the field, manipulating (geo)data with automated workflows and as a toolkit for developers. With the growing size of the QGIS project and community there are new challenges and growing pains as a result of this success. Sustaining memberships, such as the one provided by OSGeo:UK, ensure that [QGIS.ORG](https://qgis.org/) can finance projects, people and infrastructure in order to overcome these growing pains and meet these challenges. They help us to offer an ever improving QGIS for at least another 20 years to our users. Sustaining membership income is used primarily for bug fixing, quality assurance, infrastructure, documentation, system administration, software packaging and the QGIS grant program. The grant program helps to improve QGIS under the hood: code refactoring, polishing of existing tools, infrastructure work, etc. Financial reports of [QGIS.ORG](https://qgis.org/) can be found in the [QGIS finance section](https://www.qgis.org/en/site/getinvolved/governance/finance/index.html)."
+"QGIS is the most popular Desktop Open Source GIS and offers tools not only for traditional GIS users, but also for serving data on the web, collecting data in the field, manipulating (geo)data with automated workflows and as a toolkit for developers. 
+
+With the growing size of the QGIS project and community there are new challenges and growing pains as a result of this success. Sustaining memberships, such as the one provided by OSGeo:UK, ensure that [QGIS.ORG](https://qgis.org/) can finance projects, people and infrastructure in order to overcome these growing pains and meet these challenges. They help us to offer an ever improving QGIS for at least another 20 years to our users. 
+
+Sustaining membership income is used primarily for bug fixing, quality assurance, infrastructure, documentation, system administration, software packaging and the QGIS grant program. The grant program helps to improve QGIS under the hood: code refactoring, polishing of existing tools, infrastructure work, etc. Financial reports of [QGIS.ORG](https://qgis.org/) can be found in the [QGIS finance section](https://www.qgis.org/en/site/getinvolved/governance/finance/index.html)."
 
 *Andreas Neumann, QGIS.org Treasurer*
 
-[<img src="images/QGIS_logo_new.svg.png " width="200">](https://qgis.org/)
+[<img src="images/QGIS_logo_new.svg.png " width="100">](https://qgis.org/)
+
+----
 
 ### 2021-22 
 
