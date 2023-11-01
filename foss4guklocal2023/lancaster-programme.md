@@ -16,7 +16,7 @@ This is the programme for the Lancaster meeting of the FOSS4G UK 2023 Conference
 <tr><td>0930</td><td>Local Welcome</td></tr>
 <tr><td>0945</td><td>Keynote Speaker: <span class="speaker">Helen McKenzie</span>
 <p>Helen is a Geospatial Advocate at CARTO, a location intelligence platform provider since 2012. Her
-role is to excite people in the application of geospatial technologies. <i><a href="https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing">Slides</a> <a href="https://youtube.com/live/HWmgegypNBQ?feature=share">YouTube</a></i>
+role is to excite people in the application of geospatial technologies. <i><a href="https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing">Slides</a> <a href="https://youtu.be/RNIyMkWobCc">YouTube</a></i>
 </p>
 </td></tr>
 <tr><td>1015</td><td><span class="speaker">Rory Southworth</span> : <span class="talktitle">Fraser House Hub &ndash; Local Sponsor</span>

@@ -36,7 +36,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) and [Spark
 |--------------|-----------------------------|
 | 09:00-09:30  | Arrive                      |
 | 09:30-09:45  | Conference Start and Welcome|
-| 09:45-10:15  | Keynote Talk: Helen McKenzie ([CARTO](https://carto.com/)): "Getting People Excited about Geo!" *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*|
+| 09:45-10:15  | Keynote Talk: Helen McKenzie ([CARTO](https://carto.com/)): "Getting People Excited about Geo!" *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*|
 | 10:15-10:45  | Elena Robu ([Astun Technology](https://www.astuntechnology.com/)) "Unleashing the Potential: How Automated Metadata Creation Can Improve Your Data Quality and Accessibility" *[Slides](presentations/Bristol_Elena Robu Unleashing the Potential_ How Automated Metadata Creation Can Improve Your Data Quality and Accessibility.pdf)*
 | 10:45-11:15  | Coffee Break
 | **11:15-12:45**  | **Local FOSS4G Use Cases Session**

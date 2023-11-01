@@ -20,7 +20,7 @@ If you choose to watch online you are welcome to chat to other participants in t
 Time | Speaker| Title|
 :-----|:-----|:-----
 09:30 - 09:45|Local organisers|Local welcome and overview / coffee and networking
-09:45 - 10:15|Helen McKenzie|Geospatial Evangelism *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
+09:45 - 10:15|Helen McKenzie|Geospatial Evangelism *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*
 
 #### Local sessions
 

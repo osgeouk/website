@@ -22,7 +22,7 @@ We are very grateful to Landmark Information for sponsoring lunch in  London at 
 
 * 09:00-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
-* 09:45-10:15: **Keynote Talk**: Helen McKenzie: "Geospatial Evangelism" *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
+* 09:45-10:15: **Keynote Talk**: Helen McKenzie: "Geospatial Evangelism" *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*
 * 10:15-10:45: Local Talk: Mike Nibele [Groundsure] "Using PySpark and Apache Sedona for Big Data processing in the Cloud" *[Slides](https://docs.google.com/presentation/d/1W9pYhDEbyXHve5nTza_BQKbri6btrZEwW4JoZykZONo/edit?usp=drive_web)*
 
 * 10:45-11:15: Coffee Break

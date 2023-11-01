@@ -19,7 +19,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for suppor
 
 * 09:00-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
-* 09:45-10:15: Keynote Talk: Helen McKenzie: ["Geospatial Evangelism"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#geospatial-evangelism) *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
+* 09:45-10:15: Keynote Talk: Helen McKenzie: ["Geospatial Evangelism"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#geospatial-evangelism) *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*
 * 10:15-10:45: Paul Shapley [Bannau Brycheiniog NPA] ["Updating an Open Source SDI for Mobile Working"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#updating-an-open-source-sdi-for-mobile-working) *[Slides](presentations/Swansea_shapley_1 bannau_brycheiniog_updating_an_opensource_sdi_for_mobile_working_foss4g_swansea_2023.pdf) [YouTube](https://youtu.be/2YpW4FJjoog?t=3701)*
 * 10:45-11:15: Coffee Break
 * 11:15-11:45: Josh Henley [Welsh Government] ["You're so spatial, let's get engaged!"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#youre-so-spatial-lets-get-engaged) *[Slides](presentations/Swansea_henley_2 FOSS4G engagement presentation.pdf) [YouTube](https://youtu.be/2YpW4FJjoog?t=7514)*

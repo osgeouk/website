@@ -8,7 +8,7 @@ venuepage: swansea.html
 
 ### Geospatial Evangelism
 #### Helen McKenzie, CARTO
-Helen is a Geospatial Advocate at CARTO, a location intelligence platform provider since 2012. Her role is to excite people in the application of geospatial technologies. *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing)*
+Helen is a Geospatial Advocate at CARTO, a location intelligence platform provider since 2012. Her role is to excite people in the application of geospatial technologies. *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*
 
 ### Updating an Open Source SDI for Mobile Working 
 #### Paul Shapley, Bannau Brycheiniog National Park Authority

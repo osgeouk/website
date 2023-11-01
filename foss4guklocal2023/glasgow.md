@@ -24,7 +24,7 @@ Time | Speaker| Title
 :-----|:-----|:-----
 09:00 - 09:30|-|Arrival
 09:30 - 09:45|Local organisers|Local welcome and overview
-09:45 - 10:15|_Helen McKenzie_|_Keynote: Geospatial Evangelism_ *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
+09:45 - 10:15|_Helen McKenzie_|_Keynote: Geospatial Evangelism_ *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*
 10:15 - 10:30|Brian Johnston [Ordnance Survey]|Accessing OS Downloads API with R *[Slides](presentations/Glasgow_Brian_Johnston.pdf)*
 10:30 - 10:45|Amy Taylor [Cawdor Forestry]|Tree Rings; Visualising forest plan data with R *[Slides](presentations/Glasgow_Amy_Taylor.pdf)*
 10:45 - 10:50|Ana Basiri [University of Glasgow]|Geospatial Data Science at Glasgow
