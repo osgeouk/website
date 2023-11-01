@@ -18,7 +18,7 @@ Session|Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Arrivals|09:30 - 09:40|-|Local arrivals, registration, and networking
 Local Arrivals|09:40 - 09:45|Peter Mooney|Local welcome and overview
-STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism (streamed)
+STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*
 
 # Local session timetable at Maynooth
 
