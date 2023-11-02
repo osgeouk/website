@@ -32,6 +32,12 @@ Any questions, please do ask.
 
 Some testimonials from previous funding recipients:
 
+The funding from OSGeo:UK has been pivotal to the development of Terra Draw. The funding came around the time of Terra Draws inception, and has allowed us to achieve all the goals we set out in the initial proposal and more. Now a year or so later, Terra Draw has gone from 0 external contributors to 6 and has accrued 250+ stars on GitHub. Interest is growing and we are gradually seeing increased usage across the ecosystem. We are grateful to OSGeo:UK for helping enable this.
+
+*James Milner, Terra Draw*
+
+[<img src="images/terra-draw-logo.png" width="150">](https://terradraw.io/)
+
 "OSGeo:UK has been behind several of our development efforts and funded many of the works for improving QGIS. It is a very active and vibrant community and we enjoy participating in the annual FOSS4G:UK."
 
 *Saber Razmjooei, Managing Director, Lutra Consulting*
