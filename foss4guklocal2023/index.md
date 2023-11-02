@@ -18,10 +18,10 @@ Thanks to everyone who took part, and thank you for filling the feedback form. T
 - Ian Turton, who chose a copy of [Earth Engine and Geemap](https://locatepress.com/book/gee)
 - Matthew Paice, who chose a copy of [Discover QGIS 3.x - Second Edition A Workbook for Classroom or Independent Study](https://locatepress.com/book/dq32)
 - Daniel Evans, who chose a copy of [The PyQGIS Programmer’s Guide](https://locatepress.com/book/ppg3)
+- Tom Chadwin, who chose a copy of [Geospatial Power Tools](https://locatepress.com/book/gpt)
 - Nick Morgan
 - Richard Hargreaves
 - Sophie Hallam
-- Tom Chadwin
 
 Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
