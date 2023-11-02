@@ -38,6 +38,11 @@ Some testimonials from previous funding recipients:
 
 [<img src="images/lutra-logo-gray.png" width="150">](https://www.lutraconsulting.co.uk/)
 
+"The generosity of the group in directly funding the software projects is greatly appreciated, and helps maintain the ongoing sustainability of QGIS".
+
+*Nyall Dawson, Director, North Road*
+
+[<img src="images/north_road_header_logo.png" width="150">](https://north-road.com/)
 
 "QGIS is the most popular Desktop Open Source GIS and offers tools not only for traditional GIS users, but also for serving data on the web, collecting data in the field, manipulating (geo)data with automated workflows and as a toolkit for developers. 
 
