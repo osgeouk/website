@@ -13,11 +13,15 @@ FOSS4G:UK Local 2023 went really well. It was held on Thurs 7th Sept, and we rea
 
 We have done a short [write up](lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We’re planning to run a conference in 2024, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or email <span class="osgeoemail"></span> to find out when we’ll be meeting to discuss this.
 
-Thanks to everyone who took part, and thank you for filling the feedback form. Thanks to sponsorship from Locate Press, we have given away 10 Locate Press books to those who completed the feedback form, including:
+Thanks to everyone who took part, and thank you for filling the feedback form. Thanks to sponsorship from Locate Press, we have given away Locate Press books to those who completed the feedback form, including:
 
 - Ian Turton, who chose a copy of [Earth Engine and Geemap](https://locatepress.com/book/gee)
 - Matthew Paice, who chose a copy of [Discover QGIS 3.x - Second Edition A Workbook for Classroom or Independent Study](https://locatepress.com/book/dq32)
 - Daniel Evans, who chose a copy of [The PyQGIS Programmer’s Guide](https://locatepress.com/book/ppg3)
+- Nick Morgan
+- Richard Hargreaves
+- Sophie Hallam
+- Tom Chadwin
 
 Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
