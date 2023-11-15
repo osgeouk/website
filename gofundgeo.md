@@ -6,7 +6,7 @@ layout: default
 
 ### Supporting Open Source Geospatial software development in the UK
 
-Every year at our AGM (November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. 
+Every year at our [AGM](https://uk.osgeo.org/agm/agm2023.html) (November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. 
 
 We formalised this process in [2022](https://lists.osgeo.org/pipermail/uk/2022-September/001152.html), and are aiming to continue to do this each year. In 2022 we supported 5 projects with £3,878.52 (details below) and we have approximately £6000 available for support this year. 
 
