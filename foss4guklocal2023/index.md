@@ -54,7 +54,7 @@ We had two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatial
 
 ### Ten Years After
 
-We will also had the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
+*[YouTube](https://youtube.com/live/2UReJqFle_Y?feature=share)* We will also had the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
 
 ## Code of Conduct
 
