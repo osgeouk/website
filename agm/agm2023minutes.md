@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Minutes of OSGeo:UK 2023 AGM
-21st Novenber 2023 at 12pm, online
+20th Novenber 2023 at 12pm, online
 
 ### Officers and Trustees Present
 Nick Bearman (Chair), Ant Scott (Secretary), Matt Travis (Treasurer), Alastair Graham, Tom Chadwin, Tom Armitage, Joseph Seddon (Committee), James Milner, Paul Wittle, Jonny Huck, Steven Feldman
