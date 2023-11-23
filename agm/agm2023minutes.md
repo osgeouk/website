@@ -54,20 +54,20 @@ This was agreed in principle, Al and Steven will put a proposal together.
 It was noted that up to £6,000 was available for immediate funding, with further funds potentially available for ad hoc requests through the year.
 
 The following decisions were taken on funding, based on proposals received.
-* Funding for Patreonship of Regina Obe: $720 annually to continue
-* QGIS Sustaining Membership, €1,000 annually
-* James Milner, development of Terra Draw, £1,000
+* Change from funding patreonship of Regina Obe to pgRouting sponsorship: increase to $1200/£963 per year, pgRouting Gold Sponsorship
+* QGIS Sustaining Membership, €1,000/£870 annually
+* James Milner, development of Terra Draw, up to £1,000
 * Lutra Consulting: no funding at this stage, but will consider if specific proposal or crowdfunding is needed
 * North Road/Nyall Dawson: QGIS layout background formatting, £1,000
 * GISRUK GoFundGeo: £200
 * Dorset Code Sprint: £600
 * qgis2opengis: no funding at this stage, preference is to support qgis2web - Nick will follow up
 
-A total of: £4,259.16.
+A total of: £4,633.
 
 The Treasurer will process these payments.
 
-Potentially about £2,000 remaining for allocation at a later date.
+Potentially about £1,500 remaining for allocation at a later date.
 
 It was noted that it would be useful for us, and for applicants, to agree guidelines for consideration of funding proposals in the future. Nick and Ant will consider. 
 
