@@ -62,12 +62,13 @@ The following decisions were taken on funding, based on proposals received.
 * GISRUK GoFundGeo: £200
 * Dorset Code Sprint: £600
 * qgis2opengis: no funding at this stage, preference is to support qgis2web - Nick will follow up
+* (30/11/2023) qgis2web: after discussion with Tom and Andrea, I can confirm we have moved forward with funding Andrea £1000. He has agreed to take on qgis2web and apply a range of updates. 
 
-A total of: £4,633.
+A total of: £5,633.
 
 The Treasurer will process these payments.
 
-Potentially about £1,500 remaining for allocation at a later date.
+Potentially about £500-£1000 remaining for allocation at a later date.
 
 It was noted that it would be useful for us, and for applicants, to agree guidelines for consideration of funding proposals in the future. Nick and Ant will consider. 
 

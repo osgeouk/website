@@ -4,9 +4,25 @@ layout: default
 
 ### GoFundGeo & AGM 2023
 
-OSGeo:UK [AGM](https://uk.osgeo.org/agm/agm2023.html) will take place on Mon 20th Nov 2023, 12pm - 1pm (GMT, UK/London) online using Zoom. We hope to see you there.
+OSGeo:UK AGM took place on Mon 20th Nov 2023 and the [minutes](https://uk.osgeo.org/agm/agm2023minutes.html) are now available. 
 
-We will also discuss how we want to use the £6000 of funding to support open source geospatial software development. We've decided to call this '[GoFundGeo](gofundgeo.html)' and we are running the process similar to last year, where we supported 5 projects with a total of £3,878.52. Check out the link for details including how to apply, and join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) for details of the projects that apply. 
+We agreed to fund a total of £5,633 across 7 projects through [GoFundGeo](gofundgeo.html):
+
+* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
+* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
+* North Road/Nyall Dawson: QGIS layout background formatting, £1,000
+* [GISRUK GoFundGeo]|(https://2024.gisruk.org//osgeo/): £200
+* Dorset Code Sprint: £600
+* [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an OSGeo Silver Sponsor. 
+
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. 
+
+We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check our [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
+
+At the AGM we also agreed to the development of a regular newsletter, and discussion of how we use our existing communications channels. 
+
 
 ----
 

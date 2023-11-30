@@ -6,6 +6,23 @@ layout: default
 
 From 2022, OSGeo:UK has run [GoFundGeo](gofundgeo.html) annually which funds a range of Open Source Geospatial software projects that will have an impact in the UK. More details available on the [GoFundGeo](gofundgeo.html) page. 
 
+### 2022-23
+
+[As agreed at the 2023 AGM](https://uk.osgeo.org/agm/agm2023minutes.html){:target="_newpage"}:
+
+* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
+* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
+* North Road/Nyall Dawson: QGIS layout background formatting, £1,000
+* [GISRUK GoFundGeo]|(https://2024.gisruk.org//osgeo/): £200
+* Dorset Code Sprint: £600
+* [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an OSGeo Silver Sponsor. 
+
+[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
+
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+
 #### 2021-22 
 
 [As agreed at the 2022 AGM](https://uk.osgeo.org/agm/agm2022minutes.html){:target="_newpage"}:

@@ -6,27 +6,24 @@ layout: default
 
 ### Supporting Open Source Geospatial software development in the UK
 
-Every year at our [AGM](https://uk.osgeo.org/agm/agm2023.html) (November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. 
+Every year at our AGM (each November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. 
 
-We formalised this process in [2022](https://lists.osgeo.org/pipermail/uk/2022-September/001152.html), and are aiming to continue to do this each year. In 2022 we supported 5 projects with £3,878.52 (details below) and we have approximately £6000 available for support this year. 
+At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html), we agreed to fund a total of £5,633 across 7 projects. 
 
-We are looking to use this money to fund relevant projects in the range of £500 - £1000 each.
-
-We would like to hear from you - what project(s) do you think we should fund? 
-
-We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Mon 13th Nov 2023 (one week before the AGM on Mon 20th Nov 2023). We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these for discussion at the AGM.
-
-We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
-
-We will discuss the submissions at the AGM, and decide which ones to fund. 
-
-I am also very pleased to confirm that the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who provided funding of £250 in 2022 have agreed to provide £250 again in 2023. 
+* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
+* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
+* North Road/Nyall Dawson: QGIS layout background formatting, £1,000
+* [GISRUK GoFundGeo]|(https://2024.gisruk.org//osgeo/): £200
+* Dorset Code Sprint: £600
+* [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an OSGeo Silver Sponsor. 
 
 [<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
 
-If your organisation is interested supporting future funding, please email [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
 
-Any questions, please do ask. 
+We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
 
 ----
 
