@@ -19,7 +19,7 @@ We agreed to fund a total of £5,633 across 7 projects through [GoFundGeo](gofun
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. 
 
-We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check our [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
+We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check our [funding guidelines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
 
 At the AGM we also agreed to the development of a regular newsletter, and discussion of how we use our existing communications channels. 
 

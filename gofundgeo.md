@@ -23,7 +23,7 @@ At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html)
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
 
-We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
+We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
 
 ----
 
