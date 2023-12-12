@@ -17,7 +17,7 @@ At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html)
 * [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): £200
 * Dorset Code Sprint: £600
 * [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
-* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an OSGeo Silver Sponsor. 
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
 
 [<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
 

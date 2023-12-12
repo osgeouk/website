@@ -15,7 +15,7 @@ We agreed to fund a total of £5,633 across 7 projects through [GoFundGeo](gofun
 * [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): £200
 * Dorset Code Sprint: £600
 * [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
-* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an OSGeo Silver Sponsor. 
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. 
 
