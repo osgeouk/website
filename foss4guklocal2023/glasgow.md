@@ -25,9 +25,9 @@ Time | Speaker| Title
 09:00 - 09:30|-|Arrival
 09:30 - 09:45|Local organisers|Local welcome and overview
 09:45 - 10:15|_Helen McKenzie_|_Keynote: Geospatial Evangelism_ *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtu.be/RNIyMkWobCc)*
-10:15 - 10:30|Brian Johnston [Ordnance Survey]|Accessing OS Downloads API with R *[Slides](presentations/Glasgow_Brian_Johnston.pdf)*
-10:30 - 10:45|Amy Taylor [Cawdor Forestry]|Tree Rings; Visualising forest plan data with R *[Slides](presentations/Glasgow_Amy_Taylor.pdf)*
-10:45 - 10:50|Ana Basiri [University of Glasgow]|Geospatial Data Science at Glasgow
+10:15 - 10:30|Brian Johnston [Ordnance Survey]|Accessing OS Downloads API with R *[Slides](presentations/Glasgow_Brian_Johnston.pdf) [YouTube](https://youtu.be/QT4QL6an1gI?t=995)*
+10:30 - 10:45|Amy Taylor [Cawdor Forestry]|Tree Rings; Visualising forest plan data with R *[Slides](presentations/Glasgow_Amy_Taylor.pdf) [YouTube](https://youtu.be/QT4QL6an1gI?t=1583)*
+10:45 - 10:50|Ana Basiri [University of Glasgow]|Geospatial Data Science at Glasgow *[YouTube](https://youtu.be/QT4QL6an1gI?t=2849)*
 10:50 - 11:15|-|**Coffee break**
 
 
@@ -35,9 +35,9 @@ We then have two parallel sessions:
 
 Time | Speaker| Title
 :-----|:-----|:-----
-11:15 - 11:45|Mike Spencer [Smart Data Foundry]|Beyond the \*IMD - filling the gap *[Slides](presentations/Glasgow_Mike_Spencer.pdf)*
-11:45 - 12:15|Junaid Abdul Jabbar [University of Cambridge]|Mapping Archaeological Heritage in South Asia: open-source technologies and sustainability *[Slides](presentations/Glasgow_Junaid_Abdul_Jabbar.pdf)*
-12:15 - 12:45|Paul Georgie [Geo Geo]|Unreal Geospatial: Rise of the Game Engines *[Slides](presentations/Glasgow_Paul_Georgie.pdf)*
+11:15 - 11:45|Mike Spencer [Smart Data Foundry]|Beyond the \*IMD - filling the gap *[Slides](presentations/Glasgow_Mike_Spencer.pdf) [YouTube](https://youtu.be/QT4QL6an1gI?t=4949)*
+11:45 - 12:15|Junaid Abdul Jabbar [University of Cambridge]|Mapping Archaeological Heritage in South Asia: open-source technologies and sustainability *[Slides](presentations/Glasgow_Junaid_Abdul_Jabbar.pdf) [YouTube](https://youtu.be/QT4QL6an1gI?t=6618)*
+12:15 - 12:45|Paul Georgie [Geo Geo]|Unreal Geospatial: Rise of the Game Engines *[Slides](presentations/Glasgow_Paul_Georgie.pdf) [YouTube](https://youtu.be/QT4QL6an1gI?t=8190)*
 
 or:
 
