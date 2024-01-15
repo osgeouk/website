@@ -50,8 +50,8 @@ This is followed by:
 Time | Speaker| Title
 :-----|:-----|:-----
 12:45 - 13:45|-|**Lunch**|
-13:45 - 14:15|Liam O'Connor [Compass Informatics]|MapServer in an asset management system *[Slides](https://select-8.github.io/foss4glocal2023-mapserver-in-pms-/)*|
-14:15 - 14:45|Robert Coup [Koordinates]|Kart: Practical Data Versioning for rasters, vectors, tables, and point clouds *[Slides](presentations/Glasgow_Robert_Coup.pdf)*|
+13:45 - 14:15|Liam O'Connor [Compass Informatics]|MapServer in an asset management system *[Slides](https://select-8.github.io/foss4glocal2023-mapserver-in-pms-/) [YouTube](https://youtu.be/5ZswzqralGo?t=390)*|
+14:15 - 14:45|Robert Coup [Koordinates]|Kart: Practical Data Versioning for rasters, vectors, tables, and point clouds *[Slides](presentations/Glasgow_Robert_Coup.pdf) [YouTube](https://youtu.be/5ZswzqralGo?t=1805)*|
 14:45 - 15:15|_Ujaval Gandhi [Google]_|_Keynote: Geospatial Careers_ *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)*
 15:15 - 15:30|-|**Coffee Break**
 15:30 - 16:30|_Panel Session_|_FOSS4G 2013 Panel Session: 10 years on_ *[YouTube](https://youtube.com/live/2UReJqFle_Y?feature=share)*
