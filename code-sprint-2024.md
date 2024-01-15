@@ -4,7 +4,7 @@ layout: default
 
 ### UK Code Sprint
 
-We will be running our first UK code sprint this summer and I've got it pencilled in for Tuesday the 30th of July at the Weymouth Pavilion. We are making a special effort to ensure that this event is going to be fun as well as useful and informative so we have deliberately picked a beautiful venue with view over Weymouth beach in the summer so that people can enjoy amazing Dorset coastline as they code. We also hope this will make it more accessible to those attending a university. 
+We will be running our first UK code sprint this summer and I've got it pencilled in for Tuesday the 30th of July at the Weymouth Pavilion, Dorset. We are making a special effort to ensure that this event is going to be fun as well as useful and informative so we have deliberately picked a beautiful venue with view over Weymouth beach in the summer so that people can enjoy amazing Dorset coastline as they code. We also hope this will make it more accessible to those attending a university. 
 
 To help us plan the event and confirm the booking I'd be grateful if you could let me know if you would be interested in attending by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc5lENX6KpoRwv3sYrSYDVQCr-ruCSPHvhMJ8ChSApdiQ-CmA/viewform). 
 
