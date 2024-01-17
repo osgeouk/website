@@ -11,6 +11,8 @@ We are making a special effort to ensure that this event is going to be fun as w
 Check out the [page](code-sprint-2024.html) for more details, and if you are interested please let us know on this [form](https://docs.google.com/forms/d/e/1FAIpQLSc5lENX6KpoRwv3sYrSYDVQCr-ruCSPHvhMJ8ChSApdiQ-CmA/viewform).  
 
 
+----
+
 ### GoFundGeo & AGM 2023
 
 OSGeo:UK AGM took place on Mon 20th Nov 2023 and the [minutes](https://uk.osgeo.org/agm/agm2023minutes.html) are now available. 
