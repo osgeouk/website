@@ -2,6 +2,15 @@
 layout: default
 ---
 
+### UK Code Sprint
+
+We will be running a UK code sprint this summer currently pencilled in for Tuesday 30th July 2024, at the Weymouth Pavilion, Dorset, UK. 
+
+We are making a special effort to ensure that this event is going to be fun as well as useful and informative so we have deliberately picked a beautiful venue with view over Weymouth beach in the summer so that people can enjoy amazing Dorset coastline as they code. We also hope this will make it more accessible to those attending a university.
+
+Check out the [page](code-sprint-2024.html) for more details, and if you are interested please let us know on this [form](https://docs.google.com/forms/d/e/1FAIpQLSc5lENX6KpoRwv3sYrSYDVQCr-ruCSPHvhMJ8ChSApdiQ-CmA/viewform).  
+
+
 ### GoFundGeo & AGM 2023
 
 OSGeo:UK AGM took place on Mon 20th Nov 2023 and the [minutes](https://uk.osgeo.org/agm/agm2023minutes.html) are now available. 
