@@ -28,7 +28,7 @@ STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism *[Slides](https://do
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
-Local Session #1|10:15 - 10:45|Adriaan Keurhorst|**Deep learning and Sentinel-1 for grazing detection in Ireland** [Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Keurhorst.pdf)
+Local Session #1|10:15 - 10:45|Adriaan Keurhorst|**Deep learning and Sentinel-1 for grazing detection in Ireland** [Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Keurhorst.pdf) [YouTube](https://youtu.be/oRyoR-xXiU4?t=132)
 Local Break|10:45 - 11:15|-|Coffee/tea break (local)
 
 ## Local Session #2 Chair/Host - Daniel McInerney
@@ -38,8 +38,8 @@ Local Break|10:45 - 11:15|-|Coffee/tea break (local)
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Session #2|11:15 - 11:45|Kevin Credit|**The Walkable Accessibility Score: A spatially-granular open-source measure of walkability for the continental US from 1997-2019**
-Local Session #2|11:45 - 12:15|Hrishikesh Ballal|**Urban Sprawl toolkit with open tools** [Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Hrishi.pdf)
-Local Session #2|12:15 - 12:45|Paddy Gorry|**Randomly generated spatial datasets - a Python approach**	[Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Gorry.pdf)
+Local Session #2|11:45 - 12:15|Hrishikesh Ballal|**Urban Sprawl toolkit with open tools** [Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Hrishi.pdf) [YouTube](https://youtu.be/oRyoR-xXiU4?t=1661)
+Local Session #2|12:15 - 12:45|Paddy Gorry|**Randomly generated spatial datasets - a Python approach**	[Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Gorry.pdf) [YouTube](https://youtu.be/oRyoR-xXiU4?t=3025)
 Local Lunch|12:45 - 13:45|-|Lunch served at venue room (local)
 
 ## Local Session #3 Chair/Host - Hrishikesh Ballal
@@ -48,8 +48,8 @@ Local Lunch|12:45 - 13:45|-|Lunch served at venue room (local)
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
-Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets** [Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Holloway.pdf)
-Local Session #3|14:15 - 14:30|Kevin O'Brien|**R - Dashboards and Shiny Apps** 
+Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets** [Download PDF of presentation](https://uk.osgeo.org/foss4guklocal2023/presentations/Maynooth_Holloway.pdf) [YouTube](https://youtu.be/9QyNCaj3jpI)
+Local Session #3|14:15 - 14:30|Kevin O'Brien|**R - Dashboards and Shiny Apps** [YouTube](https://youtu.be/9QyNCaj3jpI?t=1762)
 Local Session #3|14:30 - 14:45|Everyone locally|**Unconference - discussion of next steps for OSGeoIE** (not streamed!)
 
  
