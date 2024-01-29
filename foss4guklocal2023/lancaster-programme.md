@@ -27,7 +27,7 @@ Fraser House is a diverse and inclusive co-working space for Tech and Digital bu
 <tr><td>1025</td><td><span class="speaker">Tom Nicholls</span> : <span class="talktitle">Bringing Long Running Geostatistical Calculations to Public Health Professionals in the Developing World</span>
 <p>
 Epidemiologists at CHICAS (Centre for Health Informatics, Computing, and Statistics) at Lancaster University have developed code to model disease spread of an important group of Neglected Tropical Diseases. The algorithms are typically written as very long-running "R" scripts.  We present an architecture and prototype implementation of an asynchronous, scalable web-based platform that will be used by public health control professionals in the host countries to analyse disease data and design surveys using model-based geostatistics.
-Our eventual aim is to make the design sufficiently flexible so that the software could potentially cope with any type of calculation and input/output combination, including staged calculations. <a href="presentations/Lancaster-Nicholls.pdf"><i>Slides</i></a>
+Our eventual aim is to make the design sufficiently flexible so that the software could potentially cope with any type of calculation and input/output combination, including staged calculations. <a href="presentations/Lancaster-Nicholls.pdf"><i>Slides</i></a> <a href="https://youtu.be/WmPrAx-CqC4?t=3429"><i>YouTube</i></a>
 </p>
 <p class="bio">
 Tom started his career with a PhD in Optical Physics from Imperial College (some time in the dark ages), and since then has worked in a variety of software engineering jobs in industry.  He returned to academia in 2019 and joined the Centre for Health Informatics,  Computing and Statistics at Lancaster University in May 2023.

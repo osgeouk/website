@@ -24,7 +24,7 @@ The [Lancaster Programme](lancaster-programme.html) is online.
 
 PDF versions of the talks can be downloaded from the following list. Links to the recorded videos will be published soon.
 
- * [Tom Nicholls : Bringing Long Running Geostatistical Calculations to Public Health Professionals in the Developing World](presentations/Lancaster-Nicholls.pdf)
+ * Tom Nicholls : Bringing Long Running Geostatistical Calculations to Public Health Professionals in the Developing World [Slides](presentations/Lancaster-Nicholls.pdf) [YouTube](https://youtu.be/WmPrAx-CqC4?t=3429)
  * [Daniel Evans : From space to GeoTIFF - creating remote sensing data products](presentations/Lancaster-Evans.pdf)
  * [Barry Rowlingson : Mapping a 1950s Circumnavigation with Open Source and Open Sources.](presentations/Lancaster-Rowlingson.pdf)
  * [Katherine McDonough : MapReader](presentations/Lancaster-McDonough.pdf)
