@@ -4,6 +4,8 @@ layout: default
 
 ### QGIS UK User Group
 
+<img src="images/qgis-uk-3.png" align="right">
+
 We have a QGIS UK User Group and for a number of years ran successful QGIS User Group meetings in the UK (from 2014 in Stirling, Scotland and at Windsor and Maidenhead in England before that).
 
 More recently there has been significant overlap with FOSS4G:UK meetings, and with the work of OSGeo:UK. With many of the same people being involved in both groups, and with the QGIS User Group not very active apart from FOSS4G:UK, it was decided in [2023](https://uk.osgeo.org/agm/agm2023minutes.html) to host the QGIS UK User Group website here at OSGeo:UK. 
