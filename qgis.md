@@ -22,9 +22,9 @@ Our mission in starting the group was to create a community in the UK around QGI
 
 #### Contacts
 
-[Ross McDonald](https://twitter.com/mixedbredie) - Scotland
-[Simon Miles](https://twitter.com/geosmiles) - England
-Kevin Williams - Wales/Cymru
+- [Ross McDonald](https://twitter.com/mixedbredie) - Scotland
+- [Simon Miles](https://twitter.com/geosmiles) - England
+- Kevin Williams - Wales/Cymru
 
 #### Donations
 
