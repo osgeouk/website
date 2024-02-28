@@ -2,6 +2,14 @@
 layout: default
 ---
 
+### QGIS 3.36 Maidenhead Released
+
+![](images/qgis-splash336.png)
+
+We are happy to announce that the latest version of QGIS has been named Maidenhead, after Windsor and Maidenhead Borough Council. Windsor and Maidenhead borough council was one of the first UK local authorities to move to QGIS (at version 1.8!) back in 2010/11. It was at Windsor and Maidenhead that Simon Miles and Matt Travis started the UK QGIS user group. It even hosted the first ever UK user group meeting. Windsor and Maidenhead also contributed financial to many an QGIS plugin and was also a bronze sponsor.
+
+Thanks to everyone on the OSGeo:UK [mailing list](https://lists.osgeo.org/pipermail/uk/2024-January/001235.html) who suggested ideas - we had some great [discussions](https://lists.osgeo.org/pipermail/uk/2024-January/001257.html) and learnt something new too!
+
 ### QGIS UK User Group
 
 We have a QGIS UK User Group and for a number of years ran successful QGIS User Group meetings in the UK (from 2014 in Stirling, Scotland and at Windsor and Maidenhead in England before that).

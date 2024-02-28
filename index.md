@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*[28/02/2024: QGIS 3.36 Maidenhead released - read more](qgis.html)*
+
 ### UK Code Sprint
 
 We will be running a UK code sprint this summer currently pencilled in for Tuesday 30th July 2024, at the Weymouth Pavilion, Dorset, UK. 
