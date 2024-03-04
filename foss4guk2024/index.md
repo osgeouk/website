@@ -26,12 +26,12 @@ If you think you can help in any way on any front, or just have ideas or comment
 
 - GIS Day is 20th November, PostGIS Day is 21st November - we are considering this as an option.
 - Rosh Hashanah (Jewish New Year)  - 2nd Oct to 4th Oct. 
+- Hard for many academics to take time off in October.
 - (School) half term dates
 	- Monday 16 - Fri 20th October (Leicestershire, South Scotland)
 	- Monday 23 - Friday 27 October 2023 (Norfolk)
 	- Monday 28 October 2024 to Friday 1 November 2024 (Dorset, Worcestershire)
 	- Monday 7 - Fri 20 October (North Scotland)
-	- Hard for many academics to take time off in October.
 
 If you have any questions, please contact us directly at <span class="osgeoemail"></span>. 
 

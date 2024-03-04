@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**[04/03/2024: FOSS4G:UK 2024: Call for Venues and Volunteers](foss4guk2024/index.html)**
+
 *[28/02/2024: QGIS 3.36 Maidenhead released - read more](qgis.html)*
 
 ### UK Code Sprint
