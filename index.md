@@ -84,7 +84,7 @@ __Committee__
 
 * [Dave Barter](https://twitter.com/NautoGuide)
 * [Tom Chadwin](https://en.osm.town/@tomchadwin)
-* [Alastair Graham](https://twitter.com/ajggeoger)
+* [Alastair Graham](https://social.vivaldi.net/@ajggeoger)
 * [Tom Armitage](https://twitter.com/MapNav_Tom)
 * [Joseph Seddon](https://twitter.com/josephseddon) *co-opted non-voting member*
 
