@@ -6,6 +6,10 @@ layout: default
 
 *[28/02/2024: QGIS 3.36 Maidenhead released - read more](qgis.html)*
 
+### OSGeo:UK Newsletter
+In 2024 we plan to start sending a newsetter to the open source geo community in the UK and Ireland on a 2-3 monthly cycle. There will be general news from OSGeo and information about events including the next FOSS4GUK which we hope will be an "in person" event (see [this link](foss4guk2024/index.html) or above for details). The newsletter will not replace the UK mailing list which will continue to be the place for discussions.
+You can sign up to the newsletter using the dedicated [Sign Up Link](https://stats.sender.net/forms/b4160d/view) 
+﻿
 ### UK Code Sprint
 
 We will be running a UK code sprint this summer currently pencilled in for Tuesday 30th July 2024, at the Weymouth Pavilion, Dorset, UK. 
