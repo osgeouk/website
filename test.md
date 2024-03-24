@@ -1,7 +1,5 @@
-<div id="text"></div>
  
 <script>
-document.getElementById("text").innerHTML = "Sign up here";
 
   (function (s, e, n, d, er) {
     s['Sender'] = er;
