@@ -2,18 +2,73 @@
 layout: default
 ---
 
-### UK Code Sprint
+### OSGeo:UK 2024 Code Sprint - Code by the Coast
 
-We will be running our first UK code sprint this summer and I've got it pencilled in for Tuesday the 30th of July at the Weymouth Pavilion, Dorset. We are making a special effort to ensure that this event is going to be fun as well as useful and informative so we have deliberately picked a beautiful venue with view over Weymouth beach in the summer so that people can enjoy amazing Dorset coastline as they code. We also hope this will make it more accessible to those attending a university. 
+![](images/code-by-the-coast.jpg)
 
-To help us plan the event and confirm the booking I'd be grateful if you could let me know if you would be interested in attending by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc5lENX6KpoRwv3sYrSYDVQCr-ruCSPHvhMJ8ChSApdiQ-CmA/viewform). 
+We will be running our first UK code sprint, Code by the Coast, on Tuesday 30th July 2024, at the The Heights Hotel, Portland, Dorset, UK. [Book your tickets now](https://www.eventbrite.co.uk/e/osgeouk-2024-code-sprint-tickets-870353269057). 
 
-Attendance will be free of charge but there may be additional optional costs for activities and lunch depending on whether or not I can find a sponsor. 
+This is a great opportunity to work on some up and coming open-source projects and to meet up with other open-source developers here in the UK. Whether you are new to open-source geospatial development or have been working in the industry for years we hope this event will be the summer work-cation you need!
 
-At present we have two groups running a sprint on the day GIFramework Maps ([GitHub - Dorset-Council-UK/GIFramework-Maps: A .NET based web map built with OpenLayers and Bootstrap](https://github.com/Dorset-Council-UK/GIFramework-Maps)) and Terra-Draw ([GitHub - JamesLMilner/terra-draw: A library for drawing on maps that supports Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box](https://github.com/JamesLMilner/terra-draw)). If you would like to help us run one for other projects please also reply to this form! 
+**Bring your device and join us at the Portland Heights Hotel where you can choose to work on any number of the open-source applications on offer.**
 
-My goal is that new developers should be able to clone and get up and running on as many of these projects as possible this year so please factor in a stream for helping newbies get started!
+Currently these include:
 
+- Terra-Draw ([GitHub - JamesLMilner/terra-draw: A library for drawing on maps that supports Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box](https://github.com/JamesLMilner/terra-draw))
+
+- GIFramework Maps ([GitHub - Dorset-Council-UK/GIFramework-Maps: A .NET based web map built with OpenLayers and Bootstrap](https://github.com/Dorset-Council-UK/GIFramework-Maps)) 
+
+- Registering your Open Source Geospatial project as an OSGeo Community Project (https://wiki.osgeo.org/wiki/OSGeo_Community_Projects)
+
+It is possible that more projects will join us on the day and we are sure there will be some exciting development goals to help out with on the day. If you would like your project to join us, please let us know <span class="osgeoemail"></span>. 
+
+Thanks to funding from OSGeo:UK **the event will include food and drinks for the day** with breakfast treats available on arrival and lunch with a view in the middle of the day. Please provide information on any dietary requirements or preferences when you book your ticket. 
+
+**The event is provided free of charge but spaces are strictly limited.**
+
+You can also buy a "Sponsored place" ticket where you pay for the full cost of your ticket. If you can afford to pay for your ticket this will ensure there are free places available for those that can't. Thank you for supporting this OSGeo:UK event!
+
+**If you are a UK open-source business and wish to support the event then please get in touch and you could sponsor some more places.**
+
+We hope you will join us this summer as we...code by the coast!
+
+#### Location - The Heights Hotel
+
+[The Heights Hotel](https://www.openstreetmap.org/#map=18/50.55533/-2.44230)<br>
+Isle of Portland<br>
+Nr Weymouth<br>
+Dorset<br>
+DT5 2EN<br>
+
+#### Travel
+
+Weymouth is easily accessible by train, with a half-hourly direct service from London (via Southampton) and regular services from Bristol. 
+
+From Weymouth train station, the [1 bus runs every 15 minutes](https://www.firstbus.co.uk/wessex-dorset-south-somerset/plan-journey/timetables?service=1&day=mf) to Portland. Alight at the "Portland Heights" stop. 
+
+If you are coming by train, let us know when you plan to arrive and we can arrange a pick-up shuttle from the station to the hotel. 
+
+The hotel also has free parking for anyone attending the Code Sprint. 
+
+We encourage everyone to travel by public transport/car share or under their own steam if possible.
+
+#### Accommodation
+
+There are a range of places to stay on Portland and in Weymouth for a range of budgets. 
+
+[The Heights Hotel](https://heightshotel.com/) are delighted to accommodate guests attending. Please contact the hotel directly, to obtain the best rate over the phone (01305 821361) for the date(s) required. 
+
+#### Funding availability
+
+OSGeo:UK are funding the event (through [GoFundGeo](gofundgeo.html)) and as such we have limited additional funds. If you feel you would like to attend but can't because of funding issues, please reach out to us. We will consider funding on a case-by-case basis. 
+
+Additionally if care commitments are limiting your ability to attend, again please reach out to us to discuss options. 
+
+Please email us on <span class="osgeoemail"></span>. 
+
+#### Code of Conduct
+
+Participants at the Code Sprint are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/code-sprint-2024.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
 
