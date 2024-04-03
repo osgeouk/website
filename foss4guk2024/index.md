@@ -4,6 +4,14 @@ layout: default
 
 ## FOSS4G:UK 2024: Call for Venues and Volunteers
 
+Unfortunately we have not had enough volunteers come forward to run an event in 2024. As discussed at the meeting, we will not be having a national event (local or single venue) this year. Looking forward, we will plan to have an event in 2025.
+
+Further suggestions of venues and volunteers are always welcome - please email this list with them.
+
+We are very happy to support individual events, so if you wish to organise one of these, please do. We are willing to help out where we can - please reach out and let us know if you would like some help. 
+
+----
+
 After two successful FOSS4G:UK Local events in 2022 and 2023, and FOSS4G:UK Online in 2020, it’s time for us all to get together again in 2024 - for the first time since 2019 in Edinburgh. 
 
 OSGeo:UK are calling for volunteers to help organise an event later this year, and for suggestions or offers of venues. We’ll need at least 6-8 people to organise everything (we already have a couple from the committee) - a few who are based in the venue location, but most can be remote. It will take a bit of time but anyone who has done it in the past will also tell you that it’s fun, rewarding and sociable in equal parts.
