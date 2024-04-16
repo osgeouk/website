@@ -12,17 +12,22 @@ This is a great opportunity to work on some up and coming open-source projects a
 
 **Bring your device and join us at the Portland Heights Hotel where you can choose to work on any number of the open-source applications on offer.**
 
-Currently these include:
+### Projects
 
-- Terra-Draw ([GitHub - JamesLMilner/terra-draw: A library for drawing on maps that supports Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box](https://github.com/JamesLMilner/terra-draw))
+- **Terra Draw**
+    - A library for drawing on maps that supports Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box
+    - [GitHub - JamesLMilner/terra-draw](https://github.com/JamesLMilner/terra-draw)
 
-- GIFramework Maps ([GitHub - Dorset-Council-UK/GIFramework-Maps: A .NET based web map built with OpenLayers and Bootstrap](https://github.com/Dorset-Council-UK/GIFramework-Maps)) 
+- **GIFramework Maps**
+    -  A .NET based web map built with OpenLayers and Bootstrap
+    - [GitHub - Dorset-Council-UK/GIFramework-Maps](https://github.com/Dorset-Council-UK/GIFramework-Maps)
 
-- How to register your Open Source Geospatial project as an [OSGeo Community Project](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects)
+- **How to register your Open Source Geospatial project as an OSGeo Community Project**
+    - [Website - OSGeo Community Projects](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects)
 
 It is possible that more projects will join us on the day and we are sure there will be some exciting development goals to help out with on the day. If you would like your project to join us, please let us know <span class="osgeoemail"></span>. 
 
-Thanks to funding from OSGeo:UK **the event will include food and drinks for the day** with breakfast treats available on arrival and lunch with a view in the middle of the day. Please provide information on any dietary requirements or preferences when you book your ticket. 
+### Tickets
 
 **The event is provided free of charge but spaces are strictly limited.**
 
@@ -46,6 +51,10 @@ Catering is provided, sponsored by OSGeo:UK:
 - Mid-morning coffee & tea with biscuits
 - Lunch, soup and sandwiches taken in the Bistro
 - Afternoon coffee & tea with cake
+
+### Food and Drink
+
+Thanks to funding from OSGeo:UK **the event will include food and drinks for the day** with breakfast treats available on arrival and lunch with a view in the middle of the day. Please provide information on any dietary requirements or preferences when you book your ticket. 
 
 ### Travel
 
