@@ -14,7 +14,7 @@ At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html)
 * [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
 * [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
 * North Road/Nyall Dawson: QGIS layout background formatting, £1,000
-* [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): - [Flexurba] £200
+* [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): - [Flexurba](#flexurba-gisruk--osgeouk-gofundgeo-award) £200
 * Dorset Code Sprint: £600
 * [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
 * As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
