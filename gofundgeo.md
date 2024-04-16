@@ -14,7 +14,7 @@ At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html)
 * [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
 * [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
 * North Road/Nyall Dawson: QGIS layout background formatting, £1,000
-* [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): £200
+* [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): - [Flexurba] £200
 * Dorset Code Sprint: £600
 * [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
 * As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
@@ -24,6 +24,19 @@ At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html)
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
 
 We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
+
+----
+
+### Flexurba: GISRUK & OSGeo:UK GoFundGeo Award
+
+[GISRUK and OSGeo:UK](https://2024.gisruk.org/osgeo/) have co-funded a GoFundGeo grant of £500 that has been offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). 
+
+It gives me great pleasure to announce that the 2024 Award goes to Céline Van Migerode for Flexurba: An Open-Source R Package To Flexibly Reconstruct The Degree Of Urbanisation Classification. 
+
+Flexurba, in a library written in R with the first open reconstruction of the Degree of Urbanisation algorithm to classify cities, towns, and rural areas. The package offers enhanced flexibility and facilitates constructing alternative versions of the classification by customising the minimum population size required for a city, and more ‘hidden’ implementation details including contiguity requirements and smoothing rules. The package enables a broad range of analyses beyond the Degree of Urbanisation’s original application, such as evaluating alternative urban delineations, sensitivity analyses and comparative research. 
+
+Flexurba’s source code be [explored here](https://gitlab.kuleuven.be/spatial-networks-lab/research-projects/flexurba), and the documentation is included on [this website](https://flexurba-spatial-networks-lab-research-projects--e74426d1c66ecc.pages.gitlab.kuleuven.be/). Céline's paper at [GISRUK is available here](https://zenodo.org/records/10899270). 
+
 
 ----
 

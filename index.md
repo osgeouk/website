@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*[12/04/2024: Flexurba recieves the GISRUK & OSGeo:UK GoFundGeo Award](gofundgeo.html)*
+
 *[28/02/2024: QGIS 3.36 Maidenhead released - read more](qgis.html)*
 
 ### UK Code Sprint
@@ -13,6 +15,9 @@ We will be running a UK code sprint this summer on Tuesday 30th July 2024, at th
 This is a great opportunity to work on some up and coming open-source projects and to meet up with other open-source developers here in the UK. Whether you are new to open-source geospatial development or have been working in the industry for years we hope this event will be the summer work-cation you need!
 
 Check out the [page](code-sprint-2024.html) for more details, and if you have any questions, please email us <span class="osgeoemail"></span>. 
+
+
+----
 
 ### OSGeo:UK Newsletter
 
