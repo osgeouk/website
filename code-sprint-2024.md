@@ -30,8 +30,9 @@ It is possible that more projects will join us on the day and we are sure there 
 ### Tickets
 
 **The event is provided free of charge but spaces are strictly limited.**
+**Free tickets are currently sold out - could you sponsor some more places?**
 
-You can also buy a "Sponsored place" ticket where you pay for the full cost of your ticket. If you can afford to pay for your ticket this will ensure there are free places available for those that can't. Thank you for supporting this OSGeo:UK event!
+If you still want to join us you can also buy a "Sponsored place" ticket where you pay for the full cost of your ticket. Thank you for supporting this OSGeo:UK event!
 
 **If you are a UK open-source business and wish to support the event then please get in touch and you could sponsor some more places.**
 
