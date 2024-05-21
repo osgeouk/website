@@ -85,7 +85,7 @@ Please email us on <span class="osgeoemail"></span>.
 
 ### Code of Conduct
 
-Participants at the Code Sprint are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
+Participants at the Code Sprint are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](/foss4guklocal2023/code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/code-sprint-2024.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
 
