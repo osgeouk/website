@@ -29,9 +29,9 @@ It is possible that more projects will join us on the day and we are sure there 
 
 ### Tickets
 
-**The event is provided free of charge but spaces are strictly limited. Thanks to OSGeo:UK and Addresscloud we have been able to offer 20 places free to charge**
+**The event is provided free of charge but spaces are strictly limited. Thanks to OSGeo:UK and Addresscloud we have been able to offer 20 places free of charge**
 
-[<img src="images/addresscloud-logo.png" width="275">](https://www.addresscloud.com) [<img src="images/OSGeoUK2.png" width="275">](https://uk.osgeo.org)
+[<img src="images/addresscloud-logo.png" width="200">](https://www.addresscloud.com) [<img src="images/OSGeoUK2.png" width="200">](https://uk.osgeo.org)
 
 *Addresscloud are a big advocate and strong backers of OSGeo:UK and FOSS4G events. They help insurers understand geographic risk. Their award-winning platform provides leading insurers with APIs and applications to make better underwriting decisions.*
 
