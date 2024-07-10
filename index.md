@@ -4,8 +4,6 @@ layout: default
 
 *[12/04/2024: Flexurba recieves the GISRUK & OSGeo:UK GoFundGeo Award](gofundgeo.html#flexurba-gisruk--osgeouk-gofundgeo-award)*
 
-*[28/02/2024: QGIS 3.36 Maidenhead released - read more](qgis.html)*
-
 ### UK Code Sprint
 
 ![](images/code-by-the-coast.jpg)
