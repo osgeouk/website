@@ -14,8 +14,6 @@ This is a great opportunity to work on some up and coming open-source projects a
 
 Check out the [page](code-sprint-2024.html) for more details, and if you have any questions, please email us <span class="osgeoemail"></span>. 
 
-Please email us on <span class="osgeoemail"></span> if you have any questions. 
-
 
 ----
 
