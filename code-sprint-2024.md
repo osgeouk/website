@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## OSGeo:UK 2024 Code Sprint - Code by the Coast
+## OSGeo:UK 2024 Code Sprint - Code by the Coast - SOLD OUT
 
 ![](images/code-by-the-coast.png)
 
-We will be running our first UK code sprint, Code by the Coast, on Tuesday 30th July 2024, at the The Heights Hotel, Portland, Dorset, UK. [Book your tickets now](https://www.eventbrite.co.uk/e/osgeouk-2024-code-sprint-tickets-870353269057). 
+We will be running our first UK code sprint, Code by the Coast, on Tuesday 30th July 2024, at the The Heights Hotel, Portland, Dorset, UK. [~~Book your tickets now~~](https://www.eventbrite.co.uk/e/osgeouk-2024-code-sprint-tickets-870353269057). SOLD OUT. Please email us on <span class="osgeoemail"></span> if you have any questions. 
 
 This is a great opportunity to work on some up and coming open-source projects and to meet up with other open-source developers here in the UK. Whether you are new to open-source geospatial development or have been working in the industry for years we hope this event will be the summer work-cation you need!
 

@@ -4,7 +4,7 @@ layout: default
 
 *[12/04/2024: Flexurba recieves the GISRUK & OSGeo:UK GoFundGeo Award](gofundgeo.html#flexurba-gisruk--osgeouk-gofundgeo-award)*
 
-### UK Code Sprint
+### UK Code Sprint - SOLD OUT
 
 ![](images/code-by-the-coast.jpg)
 
@@ -13,6 +13,8 @@ We will be running a UK code sprint this summer on Tuesday 30th July 2024, at th
 This is a great opportunity to work on some up and coming open-source projects and to meet up with other open-source developers here in the UK. Whether you are new to open-source geospatial development or have been working in the industry for years we hope this event will be the summer work-cation you need!
 
 Check out the [page](code-sprint-2024.html) for more details, and if you have any questions, please email us <span class="osgeoemail"></span>. 
+
+Please email us on <span class="osgeoemail"></span> if you have any questions. 
 
 
 ----
@@ -108,4 +110,13 @@ Help us support and promote the use of open source geospatial software within th
 
 
 
+
+<!-- Jonny Huck Email Obfuscator -->
+<!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
+<script>
+    let spans = document.getElementsByClassName('osgeoemail');
+    for (let i = 0; i < spans.length; i++){
+        spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
+    }
+</script>
 
