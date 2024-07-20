@@ -64,7 +64,7 @@ Thanks to funding from OSGeo:UK **the event will include food and drinks for the
 
 Weymouth is easily accessible by train, with a half-hourly direct service from London (via Southampton) and regular services from Bristol. 
 
-The number [1 bus runs every 15 minutes](https://www.firstbus.co.uk/wessex-dorset-south-somerset/plan-journey/timetables?service=1&day=mf) from Weymouth train station to Portland. Alight at the "Portland Heights" stop. 
+The number [1 bus runs every 15 minutes](https://www.firstbus.co.uk/wessex-dorset-south-somerset/plan-journey/timetables?service=1&day=mf) from Weymouth train station to Portland. Alight at the "Portland Heights" stop. A single ticket from the train station to The Heights costs £2 and can pe [bought on the First Bus App, online, or on the bus using contactless or cash](https://www.firstbus.co.uk/wessex-dorset-south-somerset/tickets/where-buy). 
 
 If you are coming by train, let us know when you plan to arrive and we can arrange a pick-up shuttle from the station to the hotel. 
 
