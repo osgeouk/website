@@ -31,11 +31,11 @@ It is possible that more projects will join us on the day and we are sure there 
 
 The day will run from 9:30am to 5pm. We have catering arranged as follows:
 
-- From ~9:00am - 9:45am: Arrivals with Tea / Coffee and Danish pastries 
-- Mid morning drinks 11:00am - 11:30am
-- Lunch 12:30pm – 1:30pm
-- Afternoon drinks 3:00pm - 3:15pm
-- Finishing at approx 5:00pm
+- From ~9:00am - 9:45am: Arrivals with tea / coffee and Danish pastries 
+- Mid morning drinks: 11:00am - 11:30am
+- Lunch: 12:30pm – 1:30pm
+- Afternoon drinks: 3:00pm - 3:15pm
+- Finishing at approx: 5:00pm
 
 ### Location - The Heights Hotel
 
