@@ -23,7 +23,12 @@ This is a great opportunity to work on some up and coming open-source projects a
     - [GitHub - Dorset-Council-UK/GIFramework-Maps](https://github.com/Dorset-Council-UK/GIFramework-Maps)
 
 - **How to register your Open Source Geospatial project as an OSGeo Community Project**
-    - [Website - OSGeo Community Projects](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects)
+	- Registering your project as an OSGeo Community project is a great way of saying that your project is open source, and open to contributors. Nick Bearman will outline the process, and be on hand to help different projects register. The key elements to be an OSGeo Community Project are:
+		- Be geospatial
+		- Have a free license or an open source license.
+		- Welcome participation and new contributors.
+    - [OSGeo Incubation Committee](https://www.osgeo.org/about/committees/incubation/ )
+	- [OSGeo Community Projects](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects)
 
 It is possible that more projects will join us on the day and we are sure there will be some exciting development goals to help out with on the day. If you would like your project to join us, please let us know <span class="osgeoemail"></span>. 
 
