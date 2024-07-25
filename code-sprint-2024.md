@@ -16,7 +16,8 @@ This is a great opportunity to work on some up and coming open-source projects a
 
 - **Terra Draw**
     - A library for drawing on maps that supports Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box
-    - [GitHub - JamesLMilner/terra-draw](https://github.com/JamesLMilner/terra-draw)
+    - [GitHub repo - JamesLMilner/terra-draw](https://github.com/JamesLMilner/terra-draw)
+	- [Issue for OSGeo:UK Code Sprint](https://github.com/JamesLMilner/terra-draw/issues/283)
 
 - **GIFramework Maps**
     -  A .NET based web map built with OpenLayers and Bootstrap
