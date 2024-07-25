@@ -27,8 +27,7 @@ This is a great opportunity to work on some up and coming open-source projects a
 		- Be geospatial
 		- Have a free license or an open source license.
 		- Welcome participation and new contributors.
-    - [OSGeo Incubation Committee](https://www.osgeo.org/about/committees/incubation/ )
-	- [OSGeo Community Projects](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects)
+	- More info at [OSGeo Incubation Committee](https://www.osgeo.org/about/committees/incubation/) and [OSGeo Community Projects](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects).
 
 It is possible that more projects will join us on the day and we are sure there will be some exciting development goals to help out with on the day. If you would like your project to join us, please let us know <span class="osgeoemail"></span>. 
 
