@@ -4,7 +4,7 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Bristol 2024 - Bristol (Engine Shed, Bristol Temple Meads, 12th November)
 
-### Key resources for delegates
+### FOSS4G is coming to Bristol again!
 
 Plans are underway for a another one day FOSS4G:UK event in Bristol this year on 12th November at Bristol Temple Meads, following successful events in 2023 and 2022. More details will be posted here as they emerge, in the meantime hold on to the date and look out for the call for presentations, coming soon!
 
@@ -21,9 +21,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for suppor
 * [Dan Ormsby](https://linkedin.com/in/danielormsby/)
 * [Illya Sparkes-Santos](https://www.linkedin.com/in/illyasantos/)
 
-### Programme for Bristol
-
-⚡ = Lightning talk
+### Outline Programme (provisional, times subject to change)
 
 | Time         | Description                 | 
 |--------------|-----------------------------|
