@@ -1,5 +1,5 @@
 ---
-layout: foss4guk2023
+layout: default
 ---
 
 ## FOSS4G:UK Bristol 2024 - Bristol (Engine Shed, Bristol Temple Meads, 12th November)
