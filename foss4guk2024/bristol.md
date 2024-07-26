@@ -17,6 +17,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for suppor
 
 ### Local Organising Team:
 * [Pascal Coulon](https://uk.linkedin.com/in/pascalcoulon)
+* [Alastair Graham](https://social.vivaldi.net/@ajggeoger)
 * [Sam Franklin](https://mapstodon.space/@samfranklin)
 * [Dan Ormsby](https://linkedin.com/in/danielormsby/)
 * [Illya Sparkes-Santos](https://www.linkedin.com/in/illyasantos/)
