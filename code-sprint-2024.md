@@ -31,6 +31,12 @@ This is a great opportunity to work on some up and coming open-source projects a
 		- Have a free license or an open source license.
 		- Welcome participation and new contributors.
 	- More info at [OSGeo Incubation Committee](https://www.osgeo.org/about/committees/incubation/) and [OSGeo Community Projects](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects).
+	
+- **OGC API standards, in particular Environmental Data Retrieval, and CoverageJSON **
+    - A QGIS Plugin to support access to servers using the OGC API - Environmental Data Retrieval (EDR) standard, with one of the outputs formats being CoverageJSON - not currently supported directly in QGIS. Useful to add?
+    - [OGC API - EDR](https://ogcapi.ogc.org/edr/)
+	- [QGIS Plugin](https://github.com/MetOffice/qgis-plugin-edr)
+	- [CoverageJSON](https://github.com/opengeospatial/CoverageJSON)
 
 It is possible that more projects will join us on the day and we are sure there will be some exciting development goals to help out with on the day. If you would like your project to join us, please let us know <span class="osgeoemail"></span>. 
 
