@@ -32,7 +32,7 @@ This is a great opportunity to work on some up and coming open-source projects a
 		- Welcome participation and new contributors.
 	- More info at [OSGeo Incubation Committee](https://www.osgeo.org/about/committees/incubation/) and [OSGeo Community Projects](https://wiki.osgeo.org/wiki/OSGeo_Community_Projects).
 	
-- **OGC API standards, in particular Environmental Data Retrieval, and CoverageJSON **
+- **OGC API standards, in particular Environmental Data Retrieval, and CoverageJSON**
     - A QGIS Plugin to support access to servers using the OGC API - Environmental Data Retrieval (EDR) standard, with one of the outputs formats being CoverageJSON - not currently supported directly in QGIS. Useful to add?
     - [OGC API - EDR](https://ogcapi.ogc.org/edr/)
 	- [QGIS Plugin](https://github.com/MetOffice/qgis-plugin-edr)
