@@ -37,6 +37,10 @@ This is a great opportunity to work on some up and coming open-source projects a
     - [OGC API - EDR](https://ogcapi.ogc.org/edr/)
 	- [QGIS Plugin](https://github.com/MetOffice/qgis-plugin-edr)
 	- [CoverageJSON](https://github.com/opengeospatial/CoverageJSON)
+	
+- **Marine Tools QGIS Plugin**
+	- [Marine Tools](https://plugins.qgis.org/plugins/marinetools/)
+	- Tim Le Bas
 
 It is possible that more projects will join us on the day and we are sure there will be some exciting development goals to help out with on the day. If you would like your project to join us, please let us know <span class="osgeoemail"></span>. 
 
