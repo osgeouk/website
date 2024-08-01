@@ -21,6 +21,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for suppor
 * [Sam Franklin](https://mapstodon.space/@samfranklin)
 * [Dan Ormsby](https://linkedin.com/in/danielormsby/)
 * [Illya Sparkes-Santos](https://www.linkedin.com/in/illyasantos/)
+* [Ant Scott](https://mastodon.social/@antscott)
 
 ### Outline Programme (provisional, times subject to change)
 
