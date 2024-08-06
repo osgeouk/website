@@ -4,7 +4,7 @@ layout: default
 
 ## OSGeo:UK 2024 Code Sprint - Code by the Coast
 
-<img src="images/2024-08-code-sprint-photo-2.jpeg" width="275"> <img src="images/2024-08-code-sprint-photo-1.jpeg" width="200">
+<img src="images/2024-08-code-sprint-photo-2.jpeg" height="200"> <img src="images/2024-08-code-sprint-photo-1.jpeg" height="200">
 
 On Tue 30th July 2024, we had a great day at Code by the Coast, at The Heights, Portland, Dorset. OSGeo:UK's latest code sprint brought 18 people together to work on a number of FOSS4G projects, including Terra Draw and GIFramework Maps.
 
