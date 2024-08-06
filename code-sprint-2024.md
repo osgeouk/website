@@ -2,7 +2,29 @@
 layout: default
 ---
 
-## OSGeo:UK 2024 Code Sprint - Code by the Coast - SOLD OUT
+## OSGeo:UK 2024 Code Sprint - Code by the Coast
+
+On Tue 30th July 2024, we had a great day at Code by the Coast, at The Heights, Portland, Dorset. OSGeo:UK's latest code sprint brought 18 people together to work on a number of FOSS4G projects, including Terra Draw and GIFramework Maps.
+
+> "The code sprint let us introduce GIFramework Maps to new developers and will help us to start growing the community for the project. We looked at some important topics including getting the application to translate into other languages like Welsh.
+
+> "On behalf of the development team, we’d like to thank everyone that took time to work with us and look forward to working with you and others in the future."
+
+> *GIFramework Maps Team*
+
+> "The codesprint was a great opportunity to get people familiarised with Terra Draw and improve the onboarding experience onto the project. We had five pull requests in total, focusing on documentation and testing of the application. We also found a bug with the OpenLayers adapter which wouldn't have been uncovered and diagnosed without the help of the participants (it was a Windows only issue!)."
+
+> *James Milner, Terra Draw*
+
+We also progressed the registration of Terra Draw, GIFramework Maps and XYZ as OSGeo Community projects, and spent a bit of time looking at OGC API Standards including EDR (Environmental Data Retrieval) and the Marine Tools QGIS Plugin.
+
+Along with the great coding and networking, we also had some lovey views in an excellent venue. It was rather warm though, but The Heights rose to the challenge and provided us with iced coffee!
+
+Many thanks to both OSGeo:UK GoFundGeo and Addresscloud for sponsoring the event, and for those participants who paid for their own tickets - we couldn't have done it without you! 
+
+[<img src="images/addresscloud-logo.png" width="275">](https://www.addresscloud.com) [<img src="images/OSGeoUK2.png" width="200">](https://uk.osgeo.org)
+
+----
 
 ![](images/code-by-the-coast.png)
 
