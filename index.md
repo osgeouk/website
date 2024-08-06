@@ -8,17 +8,17 @@ We're happy to announce that plans are underway for a [one day Bristol OSGeo:UK 
 
 ----
 
-*[12/04/2024: Flexurba recieves the GISRUK & OSGeo:UK GoFundGeo Award](gofundgeo.html#flexurba-gisruk--osgeouk-gofundgeo-award)*
+### UK Code Sprint - Code by the Coast
 
-----
+<img src="images/2024-08-code-sprint-photo-2.jpeg" width="275"> <img src="images/2024-08-code-sprint-photo-1.jpeg" width="200">
 
-### UK Code Sprint - SOLD OUT
+On Tue 30th July 2024, we had a great day at Code by the Coast, at The Heights, Portland, Dorset. OSGeo:UK's latest code sprint brought 18 people together to work on a number of FOSS4G projects, including Terra Draw and GIFramework Maps. Along with the great coding and networking, we also had some lovey views in an excellent venue. 
+
+Many thanks to both OSGeo:UK GoFundGeo and Addresscloud for sponsoring the event, and for those participants who paid for their own tickets - we couldn't have done it without you! 
+
+[<img src="images/addresscloud-logo.png" width="275">](https://www.addresscloud.com) [<img src="images/OSGeoUK2.png" width="200">](https://uk.osgeo.org)
 
 ![](images/code-by-the-coast.jpg)
-
-We will be running a UK code sprint this summer on Tuesday 30th July 2024, at the The Heights Hotel, Portland, Dorset, UK. 
-
-This is a great opportunity to work on some up and coming open-source projects and to meet up with other open-source developers here in the UK. Whether you are new to open-source geospatial development or have been working in the industry for years we hope this event will be the summer work-cation you need!
 
 Check out the [page](code-sprint-2024.html) for more details, and if you have any questions, please email us <span class="osgeoemail"></span>. 
 
