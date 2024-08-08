@@ -10,7 +10,7 @@ Plans are underway for a another one day FOSS4G:UK event in Bristol this year on
 
 ### Sponsors
 
-We are very grateful for the support of [CGI](https://www.cgi.com/en) for supporting sponsorship of the venue for FOSS4G:UK Bristol 2024. <br>
+We are very grateful for the support of [CGI](https://www.cgi.com/en](https://www.cgi.com/en/technologies/geospatial-services) for supporting sponsorship of the venue for FOSS4G:UK South West 2024. <br>
 
 [<img src="../foss4guklocal2023/images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/uk/en-gb)
 
