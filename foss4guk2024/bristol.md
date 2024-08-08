@@ -6,14 +6,13 @@ layout: default
 
 ### FOSS4G is coming to Bristol again!
 
-Plans are underway for a another one day FOSS4G:UK event in Bristol this year on 12th November at Bristol Temple Meads, following successful events in 2023 and 2022. More details will be posted here as they emerge, in the meantime hold on to the date and look out for the call for presentations, coming soon!
+Plans are underway for a another one day FOSS4G:UK event in Bristol this year on _12th November at Bristol Temple Meads_, following successful events in 2023 and 2022. More details will be posted here as they emerge, in the meantime hold on to the date and look out for the call for presentations, coming soon!
 
 ### Sponsors
 
 We are very grateful for the support of [CGI](https://www.cgi.com/en/technologies/geospatial-services) in supporting sponsorship of the venue for FOSS4G:UK South West 2024. <br>
 
 [<img src="../foss4guklocal2023/images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/uk/en-gb)
-
 
 ### Local Organising Team:
 * [Pascal Coulon](https://uk.linkedin.com/in/pascalcoulon)
