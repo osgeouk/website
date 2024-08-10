@@ -25,8 +25,8 @@ Check out the [page](code-sprint-2024.html) for more details, and if you have an
 
 ### OSGeo:UK Newsletter
 
-In 2024 we plan to start sending a newsletter to the open source geo community in the UK and Ireland on a 2-3 monthly cycle. There will be general news from OSGeo and information about events including the next FOSS4GUK which we hope will be an "in person" event (see [this link](foss4guk2024/index.html) or above for details). The newsletter will not replace the UK mailing list which will continue to be the place for discussions.
-You can sign up to the newsletter using the dedicated [Sign Up Link](https://stats.sender.net/forms/b4160d/view) 
+We now send a newsletter to the open source geo community in the UK and Ireland on a 2-3 monthly cycle. This includes general news from OSGeo and information about events including upcoming FOSS4GUK meetups. The newsletter will not replace the UK mailing list which will continue to be the place for ongoing discussions.
+Click [here to see an example of the newsletter](https://campaign-statistics.com/browser_preview/RjAdmmDyQU_N7aJw) or sign up using this dedicated [Sign Up Link](https://stats.sender.net/forms/b4160d/view) 
 ﻿
  
 ----
