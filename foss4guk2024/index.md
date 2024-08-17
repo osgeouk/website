@@ -2,55 +2,39 @@
 layout: default
 ---
 
-## FOSS4G:UK 2024: Call for Venues and Volunteers
+## FOSS4G:UK South West 2024 - Bristol (Engine Shed, Bristol Temple Meads, 12th November)
 
-Unfortunately we have not had enough volunteers come forward to run an event in 2024. As discussed at the meeting, we will not be having a national event (local or single venue) this year. Looking forward, we will plan to have an event in 2025.
+### FOSS4G is coming to Bristol again!
 
-Further suggestions of venues and volunteers are always welcome - please email this list with them.
+Plans are underway for a another one day FOSS4G:UK event in Bristol this year on _12th November at Bristol Temple Meads_, following successful events in 2023 and 2022. More details will be posted here as they emerge, in the meantime hold on to the date and look out for the call for presentations, coming soon!
 
-We are very happy to support individual events, so if you wish to organise one of these, please do. We are willing to help out where we can - please reach out and let us know if you would like some help. 
+### Sponsors
 
-----
+We are very grateful for the support of [CGI](https://www.cgi.com/en/technologies/geospatial-services) in supporting sponsorship of the venue for FOSS4G:UK South West 2024. <br>
 
-After two successful FOSS4G:UK Local events in 2022 and 2023, and FOSS4G:UK Online in 2020, it’s time for us all to get together again in 2024 - for the first time since 2019 in Edinburgh. 
+[<img src="../foss4guklocal2023/images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/uk/en-gb)
 
-OSGeo:UK are calling for volunteers to help organise an event later this year, and for suggestions or offers of venues. We’ll need at least 6-8 people to organise everything (we already have a couple from the committee) - a few who are based in the venue location, but most can be remote. It will take a bit of time but anyone who has done it in the past will also tell you that it’s fun, rewarding and sociable in equal parts.
+### Local Organising Team:
+* [Pascal Coulon](https://uk.linkedin.com/in/pascalcoulon)
+* [Alastair Graham](https://social.vivaldi.net/@ajggeoger)
+* [Sam Franklin](https://mapstodon.space/@samfranklin)
+* [Dan Ormsby](https://linkedin.com/in/danielormsby/)
+* [Illya Sparkes-Santos](https://www.linkedin.com/in/illyasantos/)
+* [Ant Scott](https://mastodon.social/@antscott)
 
-Some parameters/criteria for the event and venue:
+### Outline Programme (provisional, times subject to change)
 
-- Well connected by public transport
-- Able to hold 150 - 300 people
-- Capacity of at least two separate rooms
-- Facilities for on-site catering (either provided by venue or bought in)
-- Streaming/recording facilities
-- Good wifi
-- Taking place over two days, dates TBC, but possibly October or November. 21st Nov is GIS Day and 22nd Nov is PostGIS day
-- Access to accommodation a bonus 
-
-If you think you can help in any way on any front, or just have ideas or comments, please fill in this quick form now: [https://forms.gle/782n58jc3cjdZfSA6](https://forms.gle/782n58jc3cjdZfSA6). We’ll be reviewing the responses on (or soon after) 31st March and we will make a decision on whether we can go ahead. Look forward to hearing from you, and seeing you in November!
-
-
-### Dates to avoid / be aware of:
-
-- GIS Day is 20th November, PostGIS Day is 21st November - we are considering this as an option.
-- Rosh Hashanah (Jewish New Year)  - 2nd Oct to 4th Oct. 
-- Hard for many academics to take time off in October.
-- (School) half term dates
-	- Monday 16 - Fri 20th October (Leicestershire, South Scotland)
-	- Monday 23 - Friday 27 October 2023 (Norfolk)
-	- Monday 28 October 2024 to Friday 1 November 2024 (Dorset, Worcestershire)
-	- Monday 7 - Fri 20 October (North Scotland)
-
-If you have any questions, please contact us directly at <span class="osgeoemail"></span>. 
-
-
-*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guk2024/index.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
-
-<!-- Jonny Huck Email Obfuscator -->
-<!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
-<script>
-    let spans = document.getElementsByClassName('osgeoemail');
-    for (let i = 0; i < spans.length; i++){
-        spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
-    }
-</script>
+| Time         | Description                 | 
+|--------------|-----------------------------|
+| 10:30-11:00  | Arrive                      |
+| 11.30-11:45  | Conference Start and Welcome|
+| 11:45-12:15  | Session 1|
+| 12:15-12:45  | Session 2|
+| 12:45-13:15  | Session 3|
+| 13:15-14:15  | Lunch break |
+| 14:15-14:45  | Session 4 |
+| 14:45-15:15  | Session 5 |
+| 15:15-15:45  | Session 6 |
+| 15:45-16:15  | Session 7 / Open Forum| 
+| 16:15-16:45  | Wrap up |
+| 17:00-? | 🍻 Continue at local Pub
