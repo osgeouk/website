@@ -4,15 +4,31 @@ layout: default
 
 ## FOSS4G:UK South West 2024 - Bristol (Engine Shed, Bristol Temple Meads, 12th November)
 
+<img src="../foss4guk2022local/images/engineshed.jpeg" width="600" align="middle">
+
 ### FOSS4G is coming to Bristol again!
 
-Plans are underway for a another one day FOSS4G:UK event in Bristol this year on _12th November at Bristol Temple Meads_, following successful events in 2023 and 2022. More details will be posted here as they emerge, in the meantime hold on to the date and look out for the call for presentations, coming soon!
+OSGeo:UK is pleased to announce that there will be a regional one day FOSS4G event in Bristol this year on _12th November_,  at the [Engine Shed at Bristol Temple Meads](https://engine-shed.co.uk/), following on from our events there in 2023 and 2022. This will be an in person only event, but we hope to be able to record and publish presentations if we can.
+
+### Call for Presentations
+
+The call for presentations is now open! If you have developed a free and open-source project related to geospatial technologies, implemented a FOSS4G solution or product, or have anything else to share about your use of FOSS4G, please fill out this short form with details of your talk: https://forms.gle/b9fW3SjN1bCq6Jre9. And don't be deterred if you haven't presented at a conference, or are new to FOSS4G - we are keen to hear a range of perspectives. 
+
+To give us (and you) time to prepare, please submit by _12th October_ - or better still, do it now! We'll review in the week after this and get the programme published.
+
+### Registration
+
+Registration will open in September - as last year, there will be a small registration fee to help cover costs, with any surplus going back to selected FOSS4G projects. 
 
 ### Sponsors
 
 We are very grateful for the support of [CGI](https://www.cgi.com/en/technologies/geospatial-services) in supporting sponsorship of the venue for FOSS4G:UK South West 2024. <br>
 
 [<img src="../foss4guklocal2023/images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/uk/en-gb)
+
+### Questions?
+
+Get in touch with one of the organising committee members below, or email us at [osgeouk@gmail.com](osgeouk@gmail.com).
 
 ### Local Organising Team:
 * [Pascal Coulon](https://uk.linkedin.com/in/pascalcoulon)
@@ -37,4 +53,4 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en/technologie
 | 15:15-15:45  | Session 6 |
 | 15:45-16:15  | Session 7 / Open Forum| 
 | 16:15-16:45  | Wrap up |
-| 17:00-? | 🍻 Continue at local Pub
+| 17:00-? | Continue at local pub
