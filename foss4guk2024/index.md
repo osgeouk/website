@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## FOSS4G:UK South West 2024 - Bristol (Engine Shed, Bristol Temple Meads, 12th November)
+# FOSS4G:UK South West 2024 - Bristol (Engine Shed, Bristol Temple Meads, 12th November)
 
 <img src="../foss4guk2022local/images/engineshed.jpeg" width="600" align="middle">
 
