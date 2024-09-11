@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# FOSS4G:UK South West 2024 - Bristol (Engine Shed, Bristol Temple Meads, 12th November)
+# FOSS4G:UK South West 2024 - Engine Shed, Bristol Temple Meads, 12th November
 
 <img src="../foss4guk2022local/images/engineshed.jpeg" width="600" align="middle">
 
@@ -14,11 +14,13 @@ OSGeo:UK is pleased to announce that there will be a regional one day FOSS4G eve
 
 The call for presentations is now open! If you have developed a free and open-source project related to geospatial technologies, implemented a FOSS4G solution or product, or have anything else to share about your use of FOSS4G, please fill out [this short form](https://forms.gle/b9fW3SjN1bCq6Jre9) with details of your talk. And don't be deterred if you haven't presented at a conference, or are new to FOSS4G - we are keen to hear a range of perspectives. 
 
-To give us (and you) time to prepare, please submit by _5th October_ - or better still, do it now! We'll review in the week after this and get the programme published.
+To give us (and you) time to prepare, please submit by _5th October_ - or better still, do it now! We'll review in the week after this and get the programme published in mind-October.
 
 ### Registration
 
-Registration will open in September - as last year, there will be a small registration fee to help cover costs, with any surplus going back to selected FOSS4G projects. 
+[Registration is now open](https://www.eventbrite.co.uk/e/foss4guk-south-west-2024-tickets-1013729852277?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)! If you are coming, it will help us if you register as early as possible to give an idea of numbers (refunds are available up to 5th November). As in previous years, there will be a registration fee of £20 (including refreshments and lunch) to cover costs - any surplus made from tickets and sponsorship will be used to allow OSGeo:UK to provide financial support to open source geospatial projects (see [Past Donations](https://uk.osgeo.org/pastdonations.html) to see how we have supported open source geospatial projects).
+
+We also want FOSS4G:UK South West 2024 to be as accessible as possible, so we have a number of codes available for free tickets. These are available for students, under represented groups, those on a low income, those in precarious employment, those who would like to volunteer and anyone else for whom a £20 ticket would be a barrier (financial or administrative). All of these criteria are self-defined. We very much encourage you to email [osgeouk@gmail.com](osgeouk@gmail.com) to ask for a code, stating which group you belong to (no further justification is needed).
 
 ### Sponsors
 
