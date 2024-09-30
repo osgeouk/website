@@ -45,14 +45,15 @@ Get in touch with one of the organising committee members below, or email us at 
 | Time         | Description                 | 
 |--------------|-----------------------------|
 | 10:30-11:00  | Arrive                      |
-| 11.30-11:45  | Conference Start and Welcome|
-| 11:45-12:15  | Session 1|
-| 12:15-12:45  | Session 2|
-| 12:45-13:15  | Session 3|
+| 11:00-11:15  | Conference Start and Welcome|
+|11:15-11:45  |Session 1|
+| 11:45-12:15  | Session 2|
+| 12:15-12:45  | Session 3|
+| 12:45-13:15  | Session 4|
 | 13:15-14:15  | Lunch break |
-| 14:15-14:45  | Session 4 |
-| 14:45-15:15  | Session 5 |
-| 15:15-15:45  | Session 6 |
-| 15:45-16:15  | Session 7 / Open Forum| 
+| 14:15-14:45  | Session 5 |
+| 14:45-15:15  | Session 6 |
+| 15:15-15:45  | Session 7 |
+| 15:45-16:15  | Session 8 / Open Forum| 
 | 16:15-16:45  | Wrap up |
 | 17:00-? | Continue at local pub
