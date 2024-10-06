@@ -12,9 +12,7 @@ OSGeo:UK is pleased to announce that there will be a regional one day FOSS4G eve
 
 ### Call for Presentations
 
-The call for presentations is now open! If you have developed a free and open-source project related to geospatial technologies, implemented a FOSS4G solution or product, or have anything else to share about your use of FOSS4G, please fill out [this short form](https://forms.gle/b9fW3SjN1bCq6Jre9) with details of your talk. And don't be deterred if you haven't presented at a conference, or are new to FOSS4G - we are keen to hear a range of perspectives. 
 
-To give us (and you) time to prepare, please submit by _5th October_ - or better still, do it now! We'll review in the week after this and get the programme published in mind-October.
 
 ### Registration
 
