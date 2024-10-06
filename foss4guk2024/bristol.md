@@ -12,7 +12,7 @@ OSGeo:UK is pleased to announce that there will be a regional one day FOSS4G eve
 
 ### Call for Presentations
 
-
+The call for presentations is now closed - we have had a great reponse and hope to respond to all those who submitted and get the programme published by the 12th October.
 
 ### Registration
 
