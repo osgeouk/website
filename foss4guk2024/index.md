@@ -21,10 +21,10 @@ The call for presentations is now closed - we have had a great reponse and hope 
 We also want FOSS4G:UK South West 2024 to be as accessible as possible, so we have a number of codes available for free tickets. These are available for students, under represented groups, those on a low income, those in precarious employment, and anyone else for whom a £20 ticket would be a barrier (financial or administrative). All of these criteria are self-defined. We very much encourage you to email <osgeouk@gmail.com> to ask for a code, stating which group you belong to (no further justification is needed).
 
 ### Sponsors
-
-We are very grateful for the support of [CGI](https://www.cgi.com/en/technologies/geospatial-services) in supporting sponsorship of the venue for FOSS4G:UK South West 2024. <br>
+We are very grateful for the support of [CGI](https://www.cgi.com/en/technologies/geospatial-services) in supporting sponsorship of the venue for FOSS4G:UK South West 2024. We are grateful to our other core sponsors including [Telespazio](https://telespazio.co.uk/en/geoinformation)<br>
 
 [<img src="../foss4guklocal2023/images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/uk/en-gb)
+[<img src="Logo_Telespazio_800_px_red_transparent_large%20(2).png" width="300" align="middle">](https://telespazio.co.uk/en/geoinformation)
 
 ### Questions?
 
