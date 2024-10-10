@@ -55,7 +55,7 @@ Get in touch with one of the organising committee members below, or email us at 
 | 12:25-13:25  | Lunch break |
 | 13:25-13:45  | [Robin Wilson](https://uk.osgeo.org/foss4guk2024/programme_details.html#robin-wilson) (Rebalance Earth)	_Using cloud-native geospatial technologies to build a web app for analysing and reducing flood risk_| 
 | 13:45-14:05  | [Andrew Bailey](https://uk.osgeo.org/foss4guk2024/programme_details.html#andrew-bailey) (Astun Technology)	_QField in an enterprise setting_|
-| 14:05-14:15  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.htmldennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_|
+| 14:05-14:15  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_|
 | 14:15-14:35| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Help! You can decide how this thing works_|
 |14:35-14:55 | [Nick Bearman](https://uk.osgeo.org/foss4guk2024/programme_details.html#nick-bearman)	(Freelance) _GoFundGeo_|
 |14:55-15:20|Coffee break|
