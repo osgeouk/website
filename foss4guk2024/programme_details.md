@@ -66,7 +66,7 @@ _BSc physics (1970), 1971 - 1980 research in telecoms industry, been using GIS f
 Application of FOSS4G to advance the Nature Recovery strategy for Herefordshire, focussing on QGIS, PostGIS, geo-referenced raster layers of aerial photography, scanned historic maps and LIDAR integrated with mobile phone geotagged photos for citizen science surveys and using Geoserver to develop website delivery
 
 ## Dennis Bauszus
-**Dogfooding OSGeo - Should the inmates run the asylum?	**
+**Dogfooding OSGeo - Should the inmates run the asylum?**
 
 _I began my spatial career as a land surveyor in Germany before settling in the United Kingdom. Having gained GIS and Geography degrees from Kingston University and King's College London I am now committing most of my time to the development of serverless spatial data interfaces for GEOLYTIX._
 
@@ -88,6 +88,7 @@ https://en.wikipedia.org/wiki/Eating_your_own_dog_food
 
 ## James Milner
 **Experiences growing a FOSS4G project**
+
 _James is a London based software developer with a passion for geosptial. He is currently a Staff Engineer at Nearform, a company with roots in the open source community.
 
 Terra Draw is an open source JavaScript library for drawing on web maps. The project started two years ago in the UK and in that time the project has had over 20 unique contributors and amassed nearly 500 stars on GitHub. This talk will look and the ups and downs of attempting to grow, maintain and foster active adoption of an open source project. The talk will also touch on how we joined the OSGeo Community Project initiative and what that process looks like.
