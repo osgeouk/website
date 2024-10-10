@@ -60,7 +60,7 @@ Get in touch with one of the organising committee members below, or email us at 
 |14:35-14:55 | [Nick Bearman](https://uk.osgeo.org/foss4guk2024/programme_details.html#nick-bearman)	(Freelance) _GoFundGeo_|
 |14:55-15:20|Coffee break|
 |15:20-15:40| [Peter Petrik](https://uk.osgeo.org/foss4guk2024/programme_details.html#peter-petrik)	(Lutra Consulting Ltd.) _Mergin Maps: your field data collection tool_|
-|15:40:16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ |
+|15:40-16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ |
 |16:00-16:20| [Matt Travis](https://uk.osgeo.org/foss4guk2024/programme_details.html#matt-travis) (Addresscloud) _Unlocking the Power of Overture Maps with DuckDB Spatial_|
 |16:20-16:30| Wrap up|
 |17:00-?|Social (Venue tbc)|
