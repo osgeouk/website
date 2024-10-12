@@ -29,7 +29,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en/technologie
 
 ### Questions?
 
-Get in touch with one of the organising committee members below, or email us at [osgeouk@gmail.com](osgeouk@gmail.com).
+Get in touch with one of the organising committee members below, or email us at [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
 
 ### Local Organising Team:
 * [Pascal Coulon](https://uk.linkedin.com/in/pascalcoulon)
