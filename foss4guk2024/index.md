@@ -20,7 +20,7 @@ We also want FOSS4G:UK South West 2024 to be as accessible as possible, so we ha
 
 ### Speaker Information
 
-If you are presenting, please checkout the [Speaker Information PDF](foss4guk-2024-speaker-info.pdf). Note, this PDF may update to add further info.
+If you are presenting, please checkout the [Speaker Information PDF](foss4guk-2024-speaker-info.pdf). Note, this PDF may need to be updated.
 
 ### Sponsors
 
