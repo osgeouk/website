@@ -8,6 +8,10 @@ layout: default
 
 Every year at our AGM (each November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. 
 
+*Details for GoFundGeo 2024 to be released shortly. Join our [email list](https://lists.osgeo.org/mailman/listinfo/uk) to get notification.*
+
+----
+
 At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html), we agreed to fund a total of £5,633 across 7 projects. 
 
 * [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year

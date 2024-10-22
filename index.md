@@ -8,6 +8,10 @@ Everything is in place for a fantastic [one day Bristol OSGeo:UK meetup in Novem
 
 ----
 
+*[**OSGeo:UK AGM** Mon 18th Nov 2024 1pm online, GoFundGeo discussion](agm/agm2024.html)*
+
+----
+
 ### UK Code Sprint - Code by the Coast
 
 <img src="images/2024-08-code-sprint-photo-2.jpeg" height="150"> <img src="images/2024-08-code-sprint-photo-1.jpeg" height="150">
