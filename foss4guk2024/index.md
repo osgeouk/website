@@ -28,6 +28,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en/technologie
 
 [<img src="../foss4guklocal2023/images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/uk/en-gb)
 [<img src="Logo_Telespazio_800_px_red_transparent_large%20(2).png" width="300" align="middle">](https://telespazio.co.uk/en/geoinformation)<br>
+
 [<img src="../foss4guk2022local/images/ASTUN_LOGO.jpg" width="300" align="middle">](https://www.astuntechnology.com)
 
 ### Questions?
