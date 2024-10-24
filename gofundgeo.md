@@ -7,7 +7,7 @@ layout: default
 ### Supporting Open Source Geospatial software development in the UK
 
 Every year at our AGM (each November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. In [2023](#2022-23) we supported 7 projects with a total of £5,633 and in [2022](#2021-22) we supported 5 projects with £3,879. 
-This year we have a budget of £6,000 and will be making the decision about which projects we support at our [AGM on Mon 18th November](agm2024.html). Come along and have your say!
+This year we have a budget of £6,000 and will be making the decision about which projects we support at our [AGM on Mon 18th November](agm/agm2024.html). Come along and have your say!
 
 We are looking to use this money to fund relevant projects in the range of £500 - £1000 each.
 
