@@ -6,41 +6,21 @@ layout: default
 
 ### Supporting Open Source Geospatial software development in the UK
 
-Every year at our AGM (each November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. 
+Every year at our AGM (each November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. In [2023](#2022-23) we supported 7 projects with a total of £5,633 and in [2022](#2021-22) we supported 5 projects with £3,879. 
+This year we have a budget of £6,000 and will be making the decision about which projects we support at our [AGM on Mon 18th November](agm2024.html). Come along and have your say!
 
-*Details for GoFundGeo 2024 to be released shortly. Join our [email list](https://lists.osgeo.org/mailman/listinfo/uk) to get notification.*
+We are looking to use this money to fund relevant projects in the range of £500 - £1000 each.
 
-----
+We would like to hear from you - what project(s) do you think we should fund?
 
-At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html), we agreed to fund a total of £5,633 across 7 projects. 
+We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Wed 13th Nov 2024 (just before the AGM on Mon 18th Nov 2024). We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these to the email list on Thu 14th Nov, for discussion at the AGM on Mon 18th Nov. 
+We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
 
-* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
-* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
-* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
-* North Road/Nyall Dawson: QGIS layout background formatting, £1,000
-* [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): - [Flexurba](#flexurba-gisruk--osgeouk-gofundgeo-award) £200
-* Dorset Code Sprint: £600
-* [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
-* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
+We will discuss the submissions at the AGM, and decide which ones to fund.
 
-[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
+We are hopeful again to get support from the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have previously provided funding of £250 to support GoFundGeo projects. If your organisation is interested in supporting this, please email <span class="osgeoemail"></span>. 
 
-With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
-
-We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
-
-----
-
-### Flexurba: GISRUK & OSGeo:UK GoFundGeo Award
-
-[GISRUK and OSGeo:UK](https://2024.gisruk.org/osgeo/) have co-funded a GoFundGeo grant of £500 that has been offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). 
-
-It gives me great pleasure to announce that the 2024 Award goes to Céline Van Migerode for Flexurba: An Open-Source R Package To Flexibly Reconstruct The Degree Of Urbanisation Classification. 
-
-Flexurba, in a library written in R with the first open reconstruction of the Degree of Urbanisation algorithm to classify cities, towns, and rural areas. The package offers enhanced flexibility and facilitates constructing alternative versions of the classification by customising the minimum population size required for a city, and more ‘hidden’ implementation details including contiguity requirements and smoothing rules. The package enables a broad range of analyses beyond the Degree of Urbanisation’s original application, such as evaluating alternative urban delineations, sensitivity analyses and comparative research. 
-
-Flexurba’s source code be [explored here](https://gitlab.kuleuven.be/spatial-networks-lab/research-projects/flexurba), and the documentation is included on [this website](https://flexurba-spatial-networks-lab-research-projects--e74426d1c66ecc.pages.gitlab.kuleuven.be/). Céline's paper at [GISRUK is available here](https://zenodo.org/records/10899270). 
-
+If you have any questions, or need any more information please email <span class="osgeoemail"></span> or come along to [FOSS4G:UK 2024 South West in Bristol on 12th November](https://uk.osgeo.org/foss4guk2024/bristol.html). 
 
 ----
 
@@ -75,6 +55,41 @@ Sustaining membership income is used primarily for bug fixing, quality assurance
 [<img src="images/QGIS_logo_new.svg.png " width="100">](https://qgis.org/)
 
 ----
+
+### Flexurba: GISRUK & OSGeo:UK GoFundGeo Award
+
+[GISRUK and OSGeo:UK](https://2024.gisruk.org/osgeo/) have co-funded a GoFundGeo grant of £500 that has been offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). 
+
+It gives me great pleasure to announce that the 2024 Award goes to Céline Van Migerode for Flexurba: An Open-Source R Package To Flexibly Reconstruct The Degree Of Urbanisation Classification. 
+
+Flexurba, in a library written in R with the first open reconstruction of the Degree of Urbanisation algorithm to classify cities, towns, and rural areas. The package offers enhanced flexibility and facilitates constructing alternative versions of the classification by customising the minimum population size required for a city, and more ‘hidden’ implementation details including contiguity requirements and smoothing rules. The package enables a broad range of analyses beyond the Degree of Urbanisation’s original application, such as evaluating alternative urban delineations, sensitivity analyses and comparative research. 
+
+Flexurba’s source code be [explored here](https://gitlab.kuleuven.be/spatial-networks-lab/research-projects/flexurba), and the documentation is included on [this website](https://flexurba-spatial-networks-lab-research-projects--e74426d1c66ecc.pages.gitlab.kuleuven.be/). Céline's paper at [GISRUK is available here](https://zenodo.org/records/10899270). 
+
+
+----
+
+### 2022-23
+
+At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html), we agreed to fund a total of £5,633 across 7 projects. 
+
+* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
+* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
+* North Road/Nyall Dawson: QGIS layout background formatting, £1,000
+* [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): - [Flexurba](#flexurba-gisruk--osgeouk-gofundgeo-award) £200
+* Dorset Code Sprint: £600
+* [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
+
+[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
+
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
+
+We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
+
+----
+
 
 ### 2021-22 
 
