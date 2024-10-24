@@ -68,4 +68,4 @@ Get in touch with one of the organising committee members below, or email us at 
 |15:40-16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ |
 |16:00-16:20| [Matt Travis](https://uk.osgeo.org/foss4guk2024/programme_details.html#matt-travis) (Addresscloud) _Unlocking the Power of Overture Maps with DuckDB Spatial_|
 |16:20-16:30| Wrap up|
-|17:00-?|Social (Venue tbc)|
+|17:00-?|Social at [The Barley Mow](https://www.bristolbeerfactory.co.uk/pages/the-barley-mow) - 10 minutes walk from The Engine Shed|
