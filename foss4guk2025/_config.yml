@@ -2,7 +2,8 @@ title: FOSS4G:UK 2025
 preposition: at
 description: >-
   OSGeo:UK
-url: "https://uk.osgeo.org/foss4guk2025" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/foss4guk2025"
+url: "https://uk.osgeo.org" # the base hostname & protocol for your site, e.g. https://example.com
 destination: ../_site/foss4guk2025
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.6"
