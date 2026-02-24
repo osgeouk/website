@@ -2,8 +2,7 @@ title: FOSS4G:UK 2025
 preposition: at
 description: >-
   OSGeo:UK
-baseurl: "/foss4guk2025" # the subpath of your site, e.g. /blog
-url: "https://uk.osgeo.org/foss4guk2025/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://uk.osgeo.org/foss4guk2025" # the base hostname & protocol for your site, e.g. https://example.com
 destination: ../_site/foss4guk2025
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.6"
@@ -84,11 +83,7 @@ conference:
       - name: Keynotes
         relative_url: /keynotes/
       - name: Programme
-        relative_url: /programme/      
-      # - name: Speakers
-      #   relative_url: /speakers/
-      # - name: Location
-      #   relative_url: /location/
+        relative_url: /programme/
 
   # Link Preview for Sharing
   link_preview:
@@ -115,26 +110,6 @@ conference:
         relative_url: /registration/
       - name: Call for Talks
         relative_url: /callfortalks/
-      # - name: How to get there
-      #   relative_url: /location/
-      # - name: Tickets
-      #   disabled: true
-      #   absolute_url: ""
-
-    # Information boxes
-    # info_bars:
-    #   - title: Welcome to the Conference Theme for Jekyll!
-    #     color: primary
-    #     main_only: true
-    #     text: |
-    #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
-
-    #       ---
-
-    #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    #   - text: This is just some random content for demonstration purposes.
-    #     color: warning
-    #     pages_only: true
 
   # Live indications
   live:
@@ -151,20 +126,8 @@ conference:
       duration: 300 # in seconds
       pause: 10 # in seconds
 
-  talks:
-    # Talk categories
-    main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
-        color: success
-
     # Hide icons on talk overview page
     hide_icons: false
-
-  speakers:
-    # Show first and last name
-    show_firstname: true
 
   location:
     # Disable links to locations
