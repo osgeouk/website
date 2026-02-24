@@ -13,7 +13,7 @@ title: FOSS4G:UK 2025 Local Organising Committee
 <br>
 
 <h3 style="margin-bottom:0; padding-bottom:0;">Json Singh</h3>
-<em>Co-chair, website | Freelance</em>
+<em>Co-chair, website | jsonsingh.com</em>
 
 [Json on jsonsingh.com](https://jsonsingh.com){:target="_blank"}
 
