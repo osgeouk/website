@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" role="img" aria-labelledby="title desc">
+  <title id="title">Your logo placeholder</title>
+  <desc id="desc">Demo sponsor logo placeholder for the FOSS4G UK 2026 sponsor area.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f4f8f5"/>
+      <stop offset="100%" stop-color="#dcefe1"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="200" rx="28" fill="url(#bg)"/>
+  <rect x="16" y="16" width="448" height="168" rx="20" fill="none" stroke="#2f6b4f" stroke-dasharray="10 8" stroke-width="4"/>
+  <circle cx="88" cy="100" r="36" fill="#2f6b4f" opacity="0.14"/>
+  <path d="M88 74l8.7 17.7 19.5 2.8-14.1 13.7 3.3 19.4L88 118.3l-17.4 9.3 3.3-19.4L59.8 94.5l19.5-2.8L88 74z" fill="#2f6b4f"/>
+  <text x="150" y="92" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="2">YOUR LOGO</text>
+  <text x="150" y="126" fill="#2f6b4f" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.5">DEMO SPONSOR SLOT</text>
+</svg>

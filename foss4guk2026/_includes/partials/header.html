@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.conference.lang | default: 'en' }}">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  {% include partials/get_page_title.html -%}
+  <title>
+    {{- page_title -}}
+    {%- unless page_title == empty %} - {% endunless -%}
+    {{- site.title -}}
+  </title>
+  {% include partials/list_page_meta.html %}
+
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" >
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css?t={{ site.time | date: "%s" }}" />
+
+  <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-regular-400.woff2" type="font/woff2" crossorigin="anonymous" />
+  <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous" />
+  {%- if site.conference.live %}
+  <link rel="prefetch" as="fetch" href="{{ site.baseurl }}/assets/js/data.json" type="application/json" crossorigin="anonymous" />
+  {%- endif %}
+
+  {%- if site.conference.live.streaming.enable %}
+    {%- for room in site.rooms %}
+      {%- if room.live %}
+        {%- include partials/get_room_live_href.html %}
+        {%- if room_live_href %}
+  <link rel="preconnect" href="{{ room_live_href }}" />
+        {%- endif %}
+      {%- endif %}
+    {%- endfor %}
+  {%- endif %}
+</head>
+
+<body class="pb-4">
+  <header>
+    <!-- navigation bar (web only): -->
+    {%- include partials/navbar.html -%}
+
+    {%- unless page.url == "/" -%}
+      <!-- site title (print only): -->
+      <div class="container d-none d-print-block mt-4 mb-4">
+        <h1 class="display-4">
+          {{ site.title }}
+        </h1>
+      </div>
+    {%- endunless -%}
+
+  </header>
+  <main class="container">
+
+    {%- include partials/info_bar.html -%}

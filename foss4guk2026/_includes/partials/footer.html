@@ -1,0 +1,84 @@
+<style>
+  .sponsor-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+  }
+
+  .sponsor-subtitle {
+    text-align: center;
+    font-size: 1.25rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .sponsor-grid {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .sponsor-grid .aspect-box {
+    background: white;
+    padding: 0.75rem 1rem;
+    border-radius: 1rem;
+    box-shadow: 0.1rem 0.1rem 0.5rem rgb(0 0 0 / 0.05), 0.15rem 0.15rem 0.75rem rgb(0 0 0 / 0.1);
+  }
+
+  .sponsor-grid img {
+    object-fit: contain;
+    display: block;
+  }
+
+  .sponsor-card--gold img {
+    width: 16rem;
+    max-height: 6rem;
+  }
+
+  .sponsor-card--bronze img {
+    width: 12rem;
+    max-height: 4.5rem;
+  }
+
+  .sponsor-card--community img {
+    width: 9rem;
+    max-height: 3.25rem;
+  }
+</style>
+<h3 class="sponsor-title">Our Sponsors and partners</h3>
+<h4 class="sponsor-subtitle">Gold Sponsors</h4>
+<div class="sponsor-grid">
+  <div class="aspect-box sponsor-card--gold">
+    <img src="{{ site.baseurl }}/assets/images/sponsors/your-logo-demo.svg" alt="Demo gold sponsor logo placeholder">
+  </div>
+</div>
+<h4 class="sponsor-subtitle">Bronze Sponsors</h4>
+<div class="sponsor-grid">
+  <div class="aspect-box sponsor-card--bronze">
+    <img src="{{ site.baseurl }}/assets/images/sponsors/your-logo-demo.svg" alt="Demo bronze sponsor logo placeholder">
+  </div>
+</div>
+<h4 class="sponsor-subtitle">Community Sponsors</h4>
+<div class="sponsor-grid">
+  <div class="aspect-box sponsor-card--community">
+    <img src="{{ site.baseurl }}/assets/images/sponsors/your-logo-demo.svg" alt="Demo community sponsor logo placeholder">
+  </div>
+</div>
+</main>
+<footer class="container"></footer>
+
+{%- include partials/modal_link.html -%}
+
+{%- if site.conference.live.streaming.enable -%}
+{%- include partials/modal_live.html -%}
+{%- endif -%}
+
+<!-- Append build time to avoid caching of live program embedded in JavaScript file -->
+<script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: " %s" }}"></script>
+
+</body>
+
+</html>

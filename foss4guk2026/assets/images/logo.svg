@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">FOSS4G UK 2026 Leeds logo</title>
+  <desc id="desc">Conference logo reading FOSS4G:UK 2026 Leeds.</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f4f8f5"/>
+      <stop offset="100%" stop-color="#ddeee3"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2f6b4f"/>
+      <stop offset="100%" stop-color="#4e9a74"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="32" fill="url(#background)"/>
+  <rect x="12" y="12" width="1176" height="296" rx="24" fill="none" stroke="#2f6b4f" stroke-opacity="0.18" stroke-width="4"/>
+
+  <rect x="92" y="62" width="14" height="196" rx="7" fill="url(#accent)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1f2933">
+    <text x="150" y="118" font-size="76" font-weight="700" letter-spacing="2">FOSS4G:UK</text>
+    <text x="150" y="190" font-size="92" font-weight="700" fill="#2f6b4f">2026</text>
+    <text x="375" y="190" font-size="92" font-weight="700">Leeds</text>
+    <text x="150" y="242" font-size="24" letter-spacing="5" fill="#4e5f54">FREE AND OPEN SOURCE SOFTWARE FOR GEOSPATIAL</text>
+  </g>
+</svg>

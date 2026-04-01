@@ -1,0 +1,69 @@
+title: FOSS4G:UK 2026
+preposition: at
+description: >-
+  OSGeo:UK
+baseurl: "/foss4guk2026" # the subpath of your site, e.g. /blog
+url: "https://uk.osgeo.org/foss4guk2026/" # the base hostname & protocol for your site, e.g. https://example.com
+destination: ../_site/foss4guk2026
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.6"
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - vendor
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+
+conference:
+  # Language
+  lang: en
+  # Timezone
+  tz: "+00:00"
+  # Show theme errors:
+  show_errors: False
+  # Navigation bar
+  navigation:
+    logo:
+      name: OSGeo:UK
+      url: "/"
+      img: "OSGeoUK.svg"
+    breakpoint: md
+    links:
+      - name: Location
+        relative_url: /location/
+      - name: Sponsor
+        relative_url: /sponsor/
+      - name: Committee
+        relative_url: /committee/
+
+  # Main landing page
+  main:
+    logo:
+      url: "https://uk.osgeo.org/foss4guk2026/images/foss4guk_2026.png"
+    links:
+      - name: Location
+        relative_url: /location/
+      - name: Sponsor
+        relative_url: /sponsor/
+      - name: Committee
+        relative_url: /committee/
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  location:
+    hide: false
+    url: "/location"
+    map:
+      # Initial map center point
+      home_coord: 53.79578, -1.54392
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 14

@@ -16,6 +16,11 @@ foss4guk2025 uses a separate theme and hence needs to be build separately
 
 ```bundle exec jekyll serve```
 
+foss4guk2026 uses a separate theme and hence needs to be build separately
+```cd foss4guk2026 && bundle install & bundle exec jekyll build```
+
+```bundle exec jekyll serve```
+
 ## Updating training courses
 
 To update the training course table you need to edit

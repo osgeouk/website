@@ -3,6 +3,18 @@ layout: default
 title: "OSGeo: UK"
 ---
 
+## FOSS4G:UK 2026 in Leeds on Mon 12th and Tue 13th October 2026
+
+[![FOSS4G:UK 2026 Leeds logo](/foss4guk2026/assets/images/logo.svg)](/foss4guk2026)
+
+FOSS4G:UK returns to Leeds in 2026 for a two-day in-person event at [Horizon Leeds](https://horizonleeds.co.uk/), with talks and workshops across multiple rooms, networking, and community meetups.
+
+We are planning to build on the successful 2025 format, with details on registration, call for talks, programme, sponsorship and social events being published over the coming months.
+
+[See the FOSS4G:UK 2026 event page](/foss4guk2026)
+
+----
+
 *[**GoFundGeo** has now awarded £6,496 across 8 projects](gofundgeo.html).* 
 
 ----
