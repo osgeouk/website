@@ -7,7 +7,7 @@ title: FOSS4G:UK 2026 Leeds Call for Talks
 The Call for Talks is __OPEN__!
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://talks.osgeo.org/foss4g-uk-2026/" class="btn btn-primary btn-lg">Submit Your Talk</a>
+  <a href="https://talks.osgeo.org/foss4g-uk-2026/cfp" class="btn btn-primary btn-lg">Submit Your Talk</a>
 </div>
 
 Presentations and Workshops are the beating heart of the FOSS4G conference. They offer a platform for experts to share ground-breaking research, innovative ideas, and practical solutions. By attending presentations, attendees gain valuable insights into the latest developments in the FOSS4G arena, learn from leading professionals, and spark inspiration for attendees' own work. They also foster discussion and debate, allowing attendees to connect with colleagues, ask questions, and exchange perspectives, propelling the entire FOSS4G community forward.
