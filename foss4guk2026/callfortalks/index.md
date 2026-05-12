@@ -2,8 +2,7 @@
 layout: page
 title: FOSS4G:UK 2026 Leeds Call for Talks
 ---
-<img src="../assets/images/foss4g_uk_owl_yellow_2026.svg" style="max-height:100px; margin: auto; display: block;">
-
+<img src="../assets/images/logo.svg" alt="FOSS4G:UK 2026 Leeds logo" style="max-height:200px; margin: auto; display: block;">
 The Call for Talks is __OPEN__!
 
 <div style="text-align: center; margin: 30px 0;">
