@@ -5,6 +5,10 @@ title: FOSS4G:UK 2026 Leeds
 
 <img src="assets/images/logo.svg" alt="FOSS4G:UK 2026 Leeds logo" style="max-height:200px; margin: auto; display: block;">
 
+<div class="alert alert-info alert-dismissible fade show" role="alert">
+  <strong>🎤 Call for Talks is OPEN!</strong> Submit your presentation or workshop proposal at <a href="https://talks.osgeo.org/foss4g-uk-2026/">talks.osgeo.org</a>
+</div>
+
 <img src="assets/images/venue/horizon1.png" alt="Horizon Leeds venue" style="max-height:300px; margin: auto; display: block;">
 
 FOSS4G:UK 2026 returns to Leeds for another in-person national event, hosted once again at [Horizon Leeds](https://horizonleeds.co.uk/).
@@ -17,6 +21,7 @@ We expect to welcome a broad mix of delegates from across the open source geospa
 
 Here are all the details:
 
+* **[Call for Talks is now OPEN!](callfortalks/)** – Submit your presentation or workshop proposal
 * Horizon Leeds will again be the venue for the event
 * the conference format will follow the 2025 model, with talks and workshops across multiple rooms over two days
 * more information on registration, programme, sponsorship and related events will be added here as details are confirmed

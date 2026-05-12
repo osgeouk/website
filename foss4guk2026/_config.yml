@@ -37,6 +37,8 @@ conference:
       img: "OSGeoUK.svg"
     breakpoint: md
     links:
+      - name: Call for Talks
+        relative_url: /callfortalks/
       - name: Location
         relative_url: /location/
       - name: Sponsor
