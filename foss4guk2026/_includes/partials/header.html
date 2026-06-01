@@ -4,6 +4,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/favicon_io/apple-touch-icon.png"/>
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/favicon_io/favicon-32x32.png"/>
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/favicon_io/favicon-16x16.png"/>
+  <link rel="manifest" href="{{ site.baseurl }}/assets/images/favicon_io/site.webmanifest"/>
 
   {% include partials/get_page_title.html -%}
   <title>
@@ -13,7 +17,6 @@
   </title>
   {% include partials/list_page_meta.html %}
 
-  <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" >
 
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css?t={{ site.time | date: "%s" }}" />
 
@@ -50,6 +53,12 @@
         <a href="{{ '/ama/' | relative_url }}">Register here!</a>
       </div>
     </div>
+    <div class="container">
+      <div class="alert alert-info alert-dismissible fade show" role="alert">
+        <strong>🎤 Call for Talks and Registration now OPEN!</strong> Submit your presentation or workshop proposal at <a href="https://talks.osgeo.org/foss4g-uk-2026/cfp">talks.osgeo.org</a>, and register now <a href="https://uk.osgeo.org/foss4guk2026/registration/">here</a>.
+      </div>
+    </div>
+    
 
     {%- unless page.url == "/" -%}
       <!-- site title (print only): -->
