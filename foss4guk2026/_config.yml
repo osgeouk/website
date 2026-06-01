@@ -37,6 +37,8 @@ conference:
       img: "OSGeoUK.svg"
     breakpoint: md
     links:
+      - name: AMA
+        relative_url: /ama/
       - name: Call for Talks
         relative_url: /callfortalks/
       - name: Location

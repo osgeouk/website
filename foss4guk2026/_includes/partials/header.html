@@ -43,6 +43,14 @@
     <!-- navigation bar (web only): -->
     {%- include partials/navbar.html -%}
 
+    <div class="container">
+      <div class="alert alert-info alert-dismissible fade show" role="alert">
+        <span>📣 FOSS4G:UK 2026 is hosting an <strong>AMA</strong> on <strong>12 June, 2PM</strong>.</span>
+        <span>Learn more about FOSS4G and meet the LOC.</span>
+        <a href="{{ '/ama/' | relative_url }}">Register here!</a>
+      </div>
+    </div>
+
     {%- unless page.url == "/" -%}
       <!-- site title (print only): -->
       <div class="container d-none d-print-block mt-4 mb-4">
