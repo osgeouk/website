@@ -6,7 +6,7 @@ title: Ask Me Anything Session
 <h1>FOSS4G:UK 2026 AMA Session</h1>
 
 <p>
-  The AMA (Ask Me Anything) session is scheduled for <strong>12 June 2026 at 2:00 PM, London time</strong>.
+  The AMA (Ask Me Anything) session is scheduled for <strong>12 June 2026 at 12:00 PM, London time</strong>.
   It is an informal online session for anyone interested in the event, the programme, volunteering, sponsorship, or practical attendance details.
 </p>
 
