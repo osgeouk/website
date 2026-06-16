@@ -9,9 +9,9 @@ title: Ask Me Anything Session
 
 <p>
   The AMA (Ask Me Anything) session was scheduled for <strong>12 June 2026 at 12:00 PM, London time</strong>.
-  We discussed event, the programme, volunteering, sponsorship, or practical attendance details.
+  We discussed event, the programme, volunteering, sponsorship, and practical attendance details.
 </p>
 
 <p>
-Summary to added soon.
+Summary to be added soon.
 </p>
