@@ -5,6 +5,8 @@ title: FOSS4G:UK 2026 Leeds Call for Talks
 <img src="../assets/images/logo.svg" alt="FOSS4G:UK 2026 Leeds logo" style="max-height:200px; margin: auto; display: block;">
 The Call for Talks is __OPEN__!
 
+The deadline for submissions is **midday on 31 July 2026**.
+
 <div style="text-align: center; margin: 30px 0;">
   <a href="https://talks.osgeo.org/foss4g-uk-2026/cfp" class="btn btn-primary btn-lg">Submit Your Talk</a>
 </div>
