@@ -8,8 +8,10 @@ title: Programme, FOSS4G:UK 2026
 
 Presentations and Workshops are the beating heart of the FOSS4G conference. They offer a platform for experts to share ground-breaking research, innovative ideas, and practical solutions. By attending presentations, attendees gain valuable insights into the latest developments in the FOSS4G arena, learn from leading professionals, and spark inspiration for attendees' own work. They also foster discussion and debate, allowing attendees to connect with colleagues, ask questions, and exchange perspectives, propelling the entire FOSS4G community forward.
 
+The summary schedule is below.
+
 <div style="text-align: center; margin: 30px 0;" class="alert alert-secondary">
-Thank you for submitting your proposals. Please see the schedule below
+    <strong>🎤 Important!</strong> This schedule does not include links to resources (slides, workshop materials etc) - to access these, go to the <a target="_blank" rel="noopener noreferrer" href="https://talks.osgeo.org/foss4g-uk-2026/schedule/">full schedule here.</a>
 </div>
 
 <script type="text/javascript" src="https://talks.osgeo.org/foss4g-uk-2026/widgets/schedule.js"></script>
