@@ -11,7 +11,7 @@ Presentations and Workshops are the beating heart of the FOSS4G conference. They
 The summary schedule is below.
 
 <div style="text-align: center; margin: 30px 0;" class="alert alert-secondary">
-    <strong>🎤 Important!</strong> This schedule does not include links to resources (slides, workshop materials etc) - to access these, go to the <a href="https://talks.osgeo.org/foss4g-uk-2026/schedule/">full schedule here.</a>
+    <strong>🎤 Important!</strong> This schedule does not include links to resources (slides, workshop materials etc) - to access these, go to the <a target="_blank" rel="noopener noreferrer" href="https://talks.osgeo.org/foss4g-uk-2026/schedule/">full schedule here.</a>
 </div>
 
 <script type="text/javascript" src="https://talks.osgeo.org/foss4g-uk-2026/widgets/schedule.js"></script>
