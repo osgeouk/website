@@ -9,7 +9,7 @@ title: "OSGeo: UK"
 
 FOSS4G:UK returns to Leeds on 12th and 13th October 2026 for a two-day in-person event at [Horizon Leeds](https://horizonleeds.co.uk/), with talks and workshops across multiple rooms, networking, and community meetups.
 
-We are building on the successful 2025 format, and [registration is now OPEN](https://uk.osgeo.org/foss4guk2026/registration/)! – Get your ticket, T-Shirt and limited social evening seats - [see the FOSS4G:UK 2026 event page](/foss4guk2026) for all the details.
+We are building on the successful 2025 format, and registration is now closed! - [see the FOSS4G:UK 2026 event page](/foss4guk2026) for all the details.
 
 This will include the 2026 OSGeo:UK **AGM** on Monday 13th October 2026 at 3:45pm - 4:15pm. [Agenda is now available](https://uk.osgeo.org/agm/agm2026.html). 
 
